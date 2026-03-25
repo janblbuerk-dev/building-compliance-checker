@@ -1,0 +1,133 @@
+[
+  {
+    "id": "NRW-MFH-001",
+    "category": "Building Code",
+    "requirement": "Aufzugspflicht: Gebäude mit mehr als drei oberirdischen Geschossen (außer Ein- und Zweifamilienhäuser) müssen Aufzüge in ausreichender Zahl haben.",
+    "detail": "§ 39 Abs. 4 BauO NRW 2018: 'Gebäude, mit Ausnahme von Ein- und Zweifamilienhäusern, mit mehr als drei oberirdischen Geschossen müssen Aufzüge in ausreichender Zahl haben.' Ein Aufzug muss von der öffentlichen Verkehrsfläche und von allen Wohnungen im Gebäude aus barrierefrei erreichbar sein. Hinweis: Das Gesetz spricht von 'mehr als drei oberirdischen Geschossen' (nicht vier Vollgeschossen), was einem Gebäude mit mindestens vier Obergeschossen entspricht.",
+    "source_law": "BauO NRW 2018 § 39 Abs. 4",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-MFH-002",
+    "category": "Accessibility",
+    "requirement": "Barrierefreie Wohnungen: In Gebäuden der Gebäudeklasse 3 bis 5 mit Wohnungen müssen die Wohnungen barrierefrei sein.",
+    "detail": "§ 49 Abs. 1 BauO NRW 2018: 'In Gebäuden der Gebäudeklasse 3 bis 5 mit Wohnungen müssen die Wohnungen barrierefrei sein. § 39 Absatz 4 bleibt unberührt.' Ausnahme nach Abs. 3: 'Die Absätze 1 und 2 gelten jeweils nicht, soweit die Anforderungen wegen schwieriger Geländeverhältnisse oder wegen ungünstiger vorhandener Bebauung nur mit einem unverhältnismäßigen Mehraufwand erfüllt werden können.' Gebäudeklasse 3–5 umfasst Mehrfamilienhäuser mit mehr als zwei Wohneinheiten. Die Fassung nach der Änderung 2021 verwendet 'barrierefrei' ohne den früheren Zusatz 'eingeschränkt mit dem Rollstuhl nutzbar'.",
+    "source_law": "BauO NRW 2018 § 49 Abs. 1",
+    "source_url": "https://lexmea.de/en/gesetz/bauo-2018-nrw/49",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-MFH-003",
+    "category": "Fire Safety",
+    "requirement": "Notwendige Treppenräume: Jede notwendige Treppe muss zur Sicherstellung der Rettungswege in einem eigenen, durchgehenden Treppenraum liegen.",
+    "detail": "§ 35 Abs. 1 BauO NRW 2018: 'Jede notwendige Treppe muss zur Sicherstellung der Rettungswege aus den Geschossen ins Freie in einem eigenen, durchgehenden Treppenraum liegen (notwendiger Treppenraum). Notwendige Treppenräume müssen so angeordnet und ausgebildet sein, dass die Nutzung der notwendigen Treppen im Brandfall ausreichend lang möglich ist.' § 35 Abs. 9 ergänzt: 'In Geschossen mit mehr als vier Wohnungen müssen notwendige Flure angeordnet sein.' Treppenraumwände müssen je nach Gebäudeklasse feuerhemmend (GKL 3), hochfeuerhemmend (GKL 4) oder in Brandwandbauart (GKL 5) ausgeführt werden (§ 35 Abs. 4).",
+    "source_law": "BauO NRW 2018 § 35 Abs. 1, Abs. 4, Abs. 9",
+    "source_url": "https://lexmea.de/en/gesetz/bauo-2018-nrw/35",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-MFH-004",
+    "category": "Fire Safety",
+    "requirement": "Trennwände zwischen Nutzungseinheiten (Wohnungstrennwände): Müssen mindestens feuerhemmend sein und bis zur Rohdecke geführt werden.",
+    "detail": "§ 29 Abs. 1 BauO NRW 2018: 'Trennwände müssen als raumabschließende Bauteile von Räumen oder Nutzungseinheiten innerhalb von Geschossen ausreichend lang widerstandsfähig gegen die Brandausbreitung sein.' § 29 Abs. 2 Nr. 1: Trennwände sind erforderlich 'zwischen Nutzungseinheiten sowie zwischen Nutzungseinheiten und anders genutzten Räumen, ausgenommen notwendigen Fluren.' § 29 Abs. 3: 'Trennwände nach Absatz 2 Nummer 1 und 3 müssen die Feuerwiderstandsfähigkeit der tragenden und aussteifenden Bauteile des Geschosses haben, jedoch mindestens feuerhemmend sein.' § 29 Abs. 4: 'Die Trennwände nach Absatz 2 sind bis zur Rohdecke, im Dachraum bis unter die Dachhaut zu führen.' Gilt nicht für Gebäudeklassen 1 und 2 (§ 29 Abs. 6).",
+    "source_law": "BauO NRW 2018 § 29 Abs. 1–4",
+    "source_url": "https://lexmea.de/en/gesetz/bauo-2018-nrw/29",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-MFH-005",
+    "category": "Fire Safety",
+    "requirement": "Brandwände: An oder nahe Grundstücksgrenzen sind Brandwände erforderlich; Gebäude sind in Brandabschnitte von max. 40 m Länge zu unterteilen.",
+    "detail": "§ 30 Abs. 2 BauO NRW 2018 verlangt Brandwände: (1) als Gebäudeabschlusswände, wenn das Gebäude an der Grundstücksgrenze oder mit weniger als 2,50 m Abstand errichtet wird, sofern nicht ein Abstand von 5 m zu bestehenden oder zukünftig zulässigen Gebäuden dauerhaft gesichert ist; (2) 'zur Unterteilung ausgedehnter Gebäude in Abständen von nicht mehr als 40 m' als innere Brandwände. § 30 Abs. 3: Brandwände müssen feuerbeständig unter mechanischer Beanspruchung und aus nichtbrennbaren Baustoffen bestehen. § 30 Abs. 8: 'Öffnungen in Brandwänden sind unzulässig'; in inneren Brandwänden nur soweit betrieblich erforderlich mit feuerwiderstandsfähigen, dicht- und selbstschließenden Abschlüssen.",
+    "source_law": "BauO NRW 2018 § 30 Abs. 2, Abs. 3, Abs. 8",
+    "source_url": "https://lexmea.de/en/gesetz/bauo-2018-nrw/30",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-MFH-006",
+    "category": "Fire Safety",
+    "requirement": "Rauchmelderpflicht: In Wohnungen müssen Schlafräume, Kinderzimmer und Rettungsweg-Flure jeweils mindestens einen Rauchwarnmelder haben.",
+    "detail": "§ 47 Abs. 2 BauO NRW 2018: 'In Wohnungen müssen Schlafräume und Kinderzimmer sowie Flure, über die Rettungswege von Aufenthaltsräumen führen, jeweils mindestens einen Rauchwarnmelder haben. Dieser muss so eingebaut oder angebracht und betrieben werden, dass Brandrauch frühzeitig erkannt und gemeldet wird. Die Betriebsbereitschaft der Rauchwarnmelder hat die unmittelbare besitzhabende Person sicherzustellen, es sei denn, die Eigentümerin oder der Eigentümer übernimmt diese Verpflichtung selbst.' Gilt für Neubauten sowie für bestehende Wohnungen (Nachrüstpflicht).",
+    "source_law": "BauO NRW 2018 § 47 Abs. 2",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-MFH-007",
+    "category": "Building Code",
+    "requirement": "Stellplatz- und Fahrradabstellplatzpflicht: Bei Errichtung von Wohngebäuden sind notwendige Stellplätze und Fahrradabstellplätze in ausreichender Zahl herzustellen.",
+    "detail": "§ 48 Abs. 1 BauO NRW 2018: 'Bei der Errichtung, Änderung und Nutzungsänderung von Anlagen, bei denen ein Zu- oder Abfahrtsverkehr zu erwarten ist, sind die notwendigen Stellplätze, Garagen sowie Fahrradabstellplätze auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert wird, herzustellen oder nach örtlicher Bauvorschrift durch Zahlung eines Ablösungsbetrages durch die Bauherrschaft gegenüber der Gemeinde abzulösen.' Die konkrete Anzahl der Stellplätze richtet sich nach kommunalen Stellplatzsatzungen. Fahrradabstellplätze müssen ebenerdig, durch Rampen oder Aufzüge von der öffentlichen Verkehrsfläche zugänglich sein.",
+    "source_law": "BauO NRW 2018 § 48 Abs. 1",
+    "source_url": "https://lexmea.de/en/gesetz/bauo-2018-nrw/48",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-MFH-008",
+    "category": "Building Code",
+    "requirement": "Abstandsflächen: Vor Außenwänden sind Abstandsflächen von mindestens 0,4H (Wandhöhe), mindestens 3 m, einzuhalten.",
+    "detail": "§ 6 Abs. 1 BauO NRW 2018: 'Vor den Außenwänden von Gebäuden sind Abstandsflächen von oberirdischen Gebäuden freizuhalten.' § 6 Abs. 5: Standardtiefe beträgt '0,4 H, mindestens 3 m' (H = Wandhöhe). In Gewerbe- und Industriegebieten genügt 0,2 H; in Kerngebieten 0,25 H; jeweils mindestens 3 m. § 6 Abs. 2: 'Abstandsflächen müssen auf dem Grundstück selbst liegen.' § 6 Abs. 13: 'Eine Abweichung von den Abstandsflächen kann nach § 69 zugelassen werden, wenn deren Schutzziele gewahrt bleiben.' Kommunale Satzungen können die Tiefen modifizieren.",
+    "source_law": "BauO NRW 2018 § 6 Abs. 1, Abs. 5",
+    "source_url": "https://lexmea.de/en/gesetz/bauo-2018-nrw/6",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-MFH-009",
+    "category": "Building Code",
+    "requirement": "Schallschutz: Gebäude müssen einen ihrer Lage und Nutzung entsprechenden Schallschutz haben; technische Anforderungen nach DIN 4109.",
+    "detail": "§ 15 Abs. 2 BauO NRW 2018: 'Gebäude müssen einen ihrer Lage und Nutzung entsprechenden Schallschutz haben. Geräusche, die von ortsfesten Einrichtungen in baulichen Anlagen oder auf Baugrundstücken ausgehen, sind so zu dämmen, dass Gefahren oder unzumutbare Belästigungen nicht entstehen.' Die technisch-konstruktiven Anforderungen werden durch die Technische Baubestimmung DIN 4109-1:2018-01 konkretisiert, die in NRW bauaufsichtlich eingeführt ist. DIN 4109 selbst ist kostenpflichtig und nicht frei zugänglich — die Norm gilt daher als nicht direkt verifiziert.",
+    "source_law": "BauO NRW 2018 § 15 Abs. 2; DIN 4109-1:2018-01",
+    "source_url": "https://lexmea.de/en/gesetz/bauo-2018-nrw/15",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": false
+  },
+  {
+    "id": "NRW-MFH-010",
+    "category": "Energy & Sustainability",
+    "requirement": "GEG Niedrigstenergiegebäude-Pflicht: Neue Wohngebäude müssen als Niedrigstenergiegebäude errichtet werden; der Jahres-Primärenergiebedarf darf höchstens das 0,55-Fache des Referenzgebäudes betragen.",
+    "detail": "§ 10 Abs. 1 GEG: 'Wer ein Gebäude errichtet, hat dieses als Niedrigstenergiegebäude nach Maßgabe von Absatz 2 zu errichten.' § 15 Abs. 1 GEG: 'Ein zu errichtendes Wohngebäude ist so zu errichten, dass der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung und Kühlung das 0,55fache des auf die Gebäudenutzfläche bezogenen Wertes des Jahres-Primärenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie, Gebäudenutzfläche und Ausrichtung wie das zu errichtende Gebäude aufweist und der technischen Referenzausführung der Anlage 1 entspricht, nicht überschreitet.' § 20 Abs. 1 GEG: 'Für das zu errichtende Wohngebäude und das Referenzgebäude ist der Jahres-Primärenergiebedarf nach DIN V 18599: 2018-09 zu ermitteln.' Relevant für KfW-Förderungen (KfW-Effizienzhaus-Stufen).",
+    "source_law": "GEG § 10 Abs. 1; § 15 Abs. 1; § 20 Abs. 1",
+    "source_url": "https://www.gesetze-im-internet.de/geg/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-MFH-011",
+    "category": "Energy & Sustainability",
+    "requirement": "GEG Heizungspflicht erneuerbare Energien: Neue Heizungsanlagen müssen mindestens 65 % der Wärme aus erneuerbaren Energien oder unvermeidbarer Abwärme erzeugen.",
+    "detail": "§ 71 Abs. 1 GEG: 'Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme nach Maßgabe der Absätze 4 bis 6 sowie der §§ 71b bis 71h erzeugt.' § 71 Abs. 3 nennt sieben Erfüllungsoptionen ohne weiteren Nachweis, darunter Wärmepumpen, Wärmenetze, Biomasseanlagen und Hybridlösungen. Übergangsfristen nach Abs. 8 endeten in Großstädten (>100.000 Einwohner) am 30.06.2026. Betrifft KfW BEG-Fördervoraussetzungen.",
+    "source_law": "GEG § 71 Abs. 1",
+    "source_url": "https://www.gesetze-im-internet.de/geg/__71.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-MFH-012",
+    "category": "Planning & Zoning",
+    "requirement": "Planungsrechtliche Zulässigkeit im Bebauungsplan: Mehrfamilienhäuser sind in reinen Wohngebieten (WR) und allgemeinen Wohngebieten (WA) grundsätzlich zulässig.",
+    "detail": "§ 3 Abs. 1 BauNVO: 'Reine Wohngebiete dienen dem Wohnen.' § 3 Abs. 2: 'Zulässig sind: 1. Wohngebäude, 2. Anlagen zur Kinderbetreuung, die den Bedürfnissen der Bewohner des Gebiets dienen.' § 4 Abs. 1 BauNVO: 'Allgemeine Wohngebiete dienen vorwiegend dem Wohnen.' § 4 Abs. 2: 'Zulässig sind: 1. Wohngebäude, 2. die der Versorgung des Gebiets dienenden Läden, Schank- und Speisewirtschaften sowie nicht störenden Handwerksbetriebe, 3. Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.' Mehrfamilienhäuser fallen als Wohngebäude unter den allgemeinen Begriff und sind damit in WR und WA zulässig. § 30 Abs. 1 BauGB: 'Im Geltungsbereich eines Bebauungsplans ... ist ein Vorhaben zulässig, wenn es diesen Festsetzungen nicht widerspricht und die Erschließung gesichert ist.'",
+    "source_law": "BauNVO § 3 Abs. 1–2; § 4 Abs. 1–2; BauGB § 30 Abs. 1",
+    "source_url": "https://www.gesetze-im-internet.de/baunvo/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-MFH-013",
+    "category": "Planning & Zoning",
+    "requirement": "Planungsrechtliche Zulässigkeit im unbeplanten Innenbereich: Ein Vorhaben ist zulässig, wenn es sich nach Art und Maß der baulichen Nutzung in die Eigenart der näheren Umgebung einfügt.",
+    "detail": "§ 34 Abs. 1 BauGB: 'Innerhalb der im Zusammenhang bebauten Ortsteile ist ein Vorhaben zulässig, wenn es sich nach Art und Maß der baulichen Nutzung, der Bauweise und der Grundstücksfläche in die Eigenart der näheren Umgebung einfügt und die Erschließung gesichert ist.' Weiter: 'Anforderungen an gesunde Wohn- und Arbeitsverhältnisse müssen gewahrt bleiben; das Ortsbild darf nicht beeinträchtigt werden.' § 34 Abs. 2: 'Entspricht die Eigenart der näheren Umgebung einem Baugebiet nach § 9a, beurteilt sich die Zulässigkeit danach, ob das Vorhaben nach Art allgemein zulässig wäre.' Damit entscheidet die faktische Umgebungsbebauung über die Zulässigkeit eines Mehrfamilienhauses in unbeplanten Bereichen.",
+    "source_law": "BauGB § 34 Abs. 1–2",
+    "source_url": "https://www.gesetze-im-internet.de/bbaug/__34.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  }
+]
