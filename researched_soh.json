@@ -1,0 +1,154 @@
+[
+  {
+    "id": "NRW-SOH-001",
+    "category": "Permits & Approvals",
+    "requirement": "Funding application must be submitted and approved before construction begins.",
+    "detail": "WFB NRW 2023 Nr. 1.4.3: 'Für Förderungen nach Nummer 5 ist der Förderantrag vor Vorhabenbeginn zu stellen. Als Vorhabenbeginn gilt der Baubeginn oder beim Erst- oder Bestandserwerb der Abschluss des notariellen Kaufvertrags.' Any construction work started before the formal Förderzusage (funding commitment) is issued will result in the loss of the right to public funding. The application must be complete and the approval authority must have confirmed the funding commitment before the developer may break ground.",
+    "source_law": "WFB NRW 2023 Nr. 1.4.3; WFNG NRW § 10",
+    "source_url": "https://www.umwelt-online.de/regelwerk/cgi-bin/suchausgabe.cgi?pfad=/bau/laender/nrw/wfb23.htm&such=Umwelt",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-SOH-002",
+    "category": "Room Standards",
+    "requirement": "Maximum permissible dwelling floor areas (Wohnflächenobergrenzen) for publicly funded rental housing.",
+    "detail": "FRL Öff Wohnen NRW 2024 Abschnitt 2.5.1: '1 Zimmer, Küche, Nebenräume 50 Quadratmeter; 2 Zimmer, Küche, Nebenräume 65 Quadratmeter; 3 Zimmer, Küche, Nebenräume 80 Quadratmeter; 4 Zimmer, Küche, Nebenräume 95 Quadratmeter; 5 Zimmer, Küche, Nebenräume 110 Quadratmeter.' Additions are permitted: +15 m² per additional room beyond five; +5 m² if a bathtub is included; +10 m² for wheelchair-accessible (rollstuhlgerecht) fit-out. Single parents receive +15 m² per dependent child. Dwellings exceeding these thresholds are not eligible for funding.",
+    "source_law": "FRL Öff Wohnen NRW 2024 Abschnitt 2.5.1",
+    "source_url": "https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/NRW/frl-oeffentliches-wohnen-nrw-2024.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-SOH-003",
+    "category": "Planning & Zoning",
+    "requirement": "Social housing (Wohngebäude) is permitted as of right in Allgemeine Wohngebiete (WA) under BauNVO § 4.",
+    "detail": "§ 4 BauNVO Abs. 1: 'Allgemeine Wohngebiete dienen vorwiegend dem Wohnen.' Abs. 2 Nr. 1: 'Zulässig sind Wohngebäude.' Multi-family social housing (Mehrfamilienhäuser) qualifies as Wohngebäude and is therefore zulässig as of right in WA zones without any special-use variance. Planning permission under § 29 ff. BauGB is still required, but zoning compatibility is presumed.",
+    "source_law": "BauNVO § 4 Abs. 1 und Abs. 2 Nr. 1",
+    "source_url": "https://www.gesetze-im-internet.de/baunvo/__4.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-SOH-004",
+    "category": "Planning & Zoning",
+    "requirement": "Residential use also permitted in Reine Wohngebiete (WR); social housing qualifies as Wohngebäude.",
+    "detail": "§ 3 BauNVO Abs. 1: 'Reine Wohngebiete dienen dem Wohnen.' Abs. 2: 'Zulässig sind Wohngebäude.' Abs. 4: 'Zu den nach Absatz 2 sowie den §§ 2, 4 bis 7 zulässigen Wohngebäuden gehören auch solche, die ganz oder teilweise der Betreuung und Pflege ihrer Bewohner dienen.' Social housing projects that include care facilities (betreutes Wohnen) are also explicitly covered.",
+    "source_law": "BauNVO § 3 Abs. 1, 2 und 4",
+    "source_url": "https://www.gesetze-im-internet.de/baunvo/__3.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-SOH-005",
+    "category": "Building Code",
+    "requirement": "Sound insulation: Buildings must provide sound protection appropriate to their location and use.",
+    "detail": "§ 15 Abs. 2 BauO NRW 2018: 'Gebäude müssen einen ihrer Lage und Nutzung entsprechenden Schallschutz haben. Geräusche, die von ortsfesten Einrichtungen in baulichen Anlagen oder auf Baugrundstücken ausgehen, sind so zu dämmen, dass Gefahren oder unzumutbare Belästigungen nicht entstehen.' In practice, residential buildings must comply with DIN 4109 (Schallschutz im Hochbau), which sets minimum airborne and impact sound insulation values between dwellings and between dwellings and communal/external areas. For social housing, the standard requirements of DIN 4109 apply as the baseline; enhanced values (erhöhter Schallschutz) may be pursued voluntarily.",
+    "source_law": "BauO NRW 2018 § 15 Abs. 2",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": false
+  },
+  {
+    "id": "NRW-SOH-006",
+    "category": "Building Code",
+    "requirement": "Lifts (Aufzüge) are mandatory in residential buildings with more than three above-ground storeys.",
+    "detail": "§ 39 Abs. 4 BauO NRW 2018: 'Gebäude mit mehr als drei oberirdischen Geschossen müssen Aufzüge in ausreichender Zahl haben. Ein Aufzug muss von der öffentlichen Verkehrsfläche und von allen Wohnungen in dem Gebäude aus barrierefrei erreichbar sein. Von diesen Aufzügen muss in Gebäuden mit mehr als fünf oberirdischen Geschossen mindestens ein Aufzug Krankentragen, Rollstühle und Lasten aufnehmen können und Haltestellen in allen Geschossen haben. Haltestellen im obersten Geschoss und in den Kellergeschossen sind nicht erforderlich, wenn sie nur unter besonderen Schwierigkeiten hergestellt werden können. Führt die Aufstockung oder Nutzungsänderung eines Gebäudes dazu, dass nach Satz 1 ein Aufzug errichtet werden müsste, kann hiervon abgesehen werden, wenn ein Aufzug nur unter besonderen Schwierigkeiten hergestellt werden kann.' Single- and two-family houses are exempt. The lift cabin must be wheelchair-accessible per § 39 Abs. 5 (min. 1.10 m × 1.40 m floor area, 0.90 m clear door width).",
+    "source_law": "BauO NRW 2018 § 39 Abs. 4",
+    "source_url": "https://gesetze.co/NW/BauO_NRW/39",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-SOH-007",
+    "category": "Building Code",
+    "requirement": "Car parking spaces and bicycle parking must be provided on or near the building plot.",
+    "detail": "§ 48 Abs. 1 BauO NRW 2018: 'Bei der Errichtung, Änderung und Nutzungsänderung von Anlagen, bei denen ein Zu- oder Abfahrtsverkehr zu erwarten ist, sind die notwendigen Stellplätze, Garagen sowie Fahrradabstellplätze auf dem Baugrundstück oder in zumutbarer Entfernung davon auf einem geeigneten Grundstück, dessen Benutzung für diesen Zweck öffentlich-rechtlich gesichert wird, herzustellen oder nach örtlicher Bauvorschrift durch Zahlung eines Ablösungsbetrages durch die Bauherrschaft gegenüber der Gemeinde abzulösen.' The number of required parking spaces and bicycle spaces for residential buildings is determined by Anlage zu § 87 BauO NRW (local building regulations). Municipalities may set requirements by Bebauungsplan or Stellplatzsatzung. An Ablösebetrag can substitute for physical provision if permitted by local ordinance.",
+    "source_law": "BauO NRW 2018 § 48 Abs. 1",
+    "source_url": "https://lexmea.de/en/gesetz/bauo-2018-nrw/48",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false
+  },
+  {
+    "id": "NRW-SOH-008",
+    "category": "Accessibility",
+    "requirement": "All dwellings in buildings of Gebäudeklasse 3–5 must be barrier-free and usable with a wheelchair.",
+    "detail": "§ 49 Abs. 1 BauO NRW 2018: 'In Gebäuden der Gebäudeklasse 3 bis 5 mit Wohnungen müssen die Wohnungen barrierefrei sein.' The accessibility standard is defined with reference to DIN 18040-2 (barrier-free construction for residential buildings), requiring step-free access from the public thoroughfare to every dwelling, accessible entrance areas, sanitary rooms with adequate manoeuvring clearance, and door widths of at least 0.80 m clear. The FRL Öff Wohnen NRW 2024 (Abschnitt 2.4.6 Nr. 5) additionally requires each funded dwelling to have 'einen Freisitz (Balkon, Terrasse oder Loggia)'. Full wheelchair accessibility (rollstuhlgerecht per DIN 18040-2) attracts a funding bonus of up to €15,000 per dwelling.",
+    "source_law": "BauO NRW 2018 § 49 Abs. 1; DIN 18040-2",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true,
+    "verified": false
+  },
+  {
+    "id": "NRW-SOH-009",
+    "category": "Energy & Sustainability",
+    "requirement": "New publicly funded residential buildings must achieve at least BEG Effizienzhaus 55 standard.",
+    "detail": "FRL Öff Wohnen NRW 2024 Abschnitt 2.4.7 / WFB NRW 2023 Nr. 4.6.3: 'Geförderte Gebäude müssen die technischen Anforderungen an das BEG Effizienzhaus 55 erfüllen.' This corresponds to a Jahres-Primärenergiebedarf of at most 55 % of the GEG reference building (GEG § 15 Abs. 1) and a Transmissionswärmeverlust of at most 70 % of the reference building. Higher standards attract bonuses: BEG EH 40 standard yields an additional €300/m², while Netto-Null-Standard (net-zero energy) yields €450/m² additional subsidy. Heritage-listed buildings (Baudenkmale) may apply for the lower BEG Effizienzhaus Denkmal standard.",
+    "source_law": "FRL Öff Wohnen NRW 2024 Abschnitt 2.4.7; GEG § 15 Abs. 1",
+    "source_url": "https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/NRW/frl-oeffentliches-wohnen-nrw-2024.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-SOH-010",
+    "category": "Energy & Sustainability",
+    "requirement": "New residential buildings (Neubau) must not exceed 55 % of the reference building's annual primary energy demand (GEG Niedrigstenergiegebäude).",
+    "detail": "GEG § 15 Abs. 1: 'Ein zu errichtendes Wohngebäude ist so zu errichten, dass der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung und Kühlung das 0,55fache des auf die Gebäudenutzfläche bezogenen Wertes des Jahres-Primärenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie, Gebäudenutzfläche und Ausrichtung wie das zu errichtende Gebäude aufweist und der technischen Referenzausführung der Anlage 1 entspricht, nicht überschreitet.' GEG § 10 Abs. 1 further requires that every new building must be erected as a Niedrigstenergiegebäude: 'Wer ein Gebäude errichtet, hat dieses als Niedrigstenergiegebäude nach Maßgabe von Absatz 2 zu errichten.' This is the statutory minimum; the social housing funding programme requires the same 55 % threshold (BEG EH 55).",
+    "source_law": "GEG § 15 Abs. 1; GEG § 10 Abs. 1",
+    "source_url": "https://www.gesetze-im-internet.de/geg/__15.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-SOH-011",
+    "category": "Energy & Sustainability",
+    "requirement": "Heating systems in new buildings must be supplied by at least 65 % renewable energy or unavoidable waste heat.",
+    "detail": "GEG § 71 Abs. 1: 'Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme erzeugt.' Compliant system types (§ 71 Abs. 3) include: connection to a heat network (Wärmenetz), heat pumps, direct electric heating, solar thermal systems, biomass/hydrogen boilers, and certified hybrid systems. Fuel-based legacy systems that do not meet the 65 % threshold must progressively blend renewable fuels: 15 % by 2029, 30 % by 2035, 60 % by 2040 (§ 71 Abs. 9). Compliance documentation must be retained for 10 years.",
+    "source_law": "GEG § 71 Abs. 1",
+    "source_url": "https://www.gesetze-im-internet.de/geg/__71.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-SOH-012",
+    "category": "Building Code",
+    "requirement": "Tenant eligibility for publicly funded social housing is restricted by statutory income limits (Einkommensgrenzen).",
+    "detail": "WFNG NRW § 13 Abs. 1 (as reported in official sources): '1-Personen-Haushalt 17 000 Euro; 2-Personen-Haushalt 20 500 Euro; zuzüglich für jede weitere zum Haushalt rechnende Person 4 700 Euro. Für jedes haushaltsangehörige Kind im Sinne des § 32 erhöht sich die Einkommensgrenze um weitere 600 Euro.' The FRL Öff Wohnen NRW 2024 (Abschnitt 1.3) updates these figures upward to reflect annual adjustment: 1-Personen-Haushalt €20,420; 2-Personen-Haushalt €24,600; plus €5,660 per additional household member; plus €740 per child. A tenant may only occupy a funded dwelling after presenting a valid Wohnberechtigungsschein (WBS) per WFNG NRW § 17.",
+    "source_law": "WFNG NRW § 13 Abs. 1; FRL Öff Wohnen NRW 2024 Abschnitt 1.3",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/29122021-gesetz-zur-foerderung-und-nutzung-von-wohnraum-fuer-das-land-nordrhein/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-SOH-013",
+    "category": "Building Code",
+    "requirement": "Occupancy binding (Belegungsbindung): landlord may only let a funded dwelling to a holder of a valid Wohnberechtigungsschein.",
+    "detail": "WFNG NRW § 17: 'Der Verfügungsberechtigte darf eine Wohnung einer wohnungssuchenden Person nur zum Gebrauch überlassen, wenn diese einen Wohnberechtigungsschein gemäß § 18 übergibt.' The Wohnberechtigungsschein (WBS) certifies that the household's income does not exceed the applicable threshold under § 13. The binding runs for the entire Bindungsfrist stipulated in the Förderzusage. Violations allow the approval authority to demand repayment of subsidies or impose administrative penalties.",
+    "source_law": "WFNG NRW § 17",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/29122021-gesetz-zur-foerderung-und-nutzung-von-wohnraum-fuer-das-land-nordrhein/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-SOH-014",
+    "category": "Building Code",
+    "requirement": "Rent cap (Mietpreisbindung): funded dwellings may not be let at rents above the maximum permitted under the Förderzusage.",
+    "detail": "WFNG NRW § 16: 'Der Verfügungsberechtigte darf eine Mietwohnung nicht gegen eine höhere als die gemäß Förderzusage höchstzulässige Miete zum Gebrauch überlassen.' The FRL Öff Wohnen NRW 2024 (Abschnitt 2.3.2.1) sets the maximum initial net cold rent (Nettokaltmiete) per m² depending on municipality market tier (Mietenstufe): M1–M3 €6.50 (group A) / €7.55 (group B); M4 €7.25 / €8.40; M4+ (Bonn, Düsseldorf, Köln, Münster) €7.85 / €9.00. Annual rent increases are capped at 2 % per Abschnitt 2.3.2.3.1. Surcharges of +€0.15/m² (BEG EH 40) or +€0.20/m² (Netto-Null) are permitted.",
+    "source_law": "WFNG NRW § 16; FRL Öff Wohnen NRW 2024 Abschnitt 2.3.2.1",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/29122021-gesetz-zur-foerderung-und-nutzung-von-wohnraum-fuer-das-land-nordrhein/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  },
+  {
+    "id": "NRW-SOH-015",
+    "category": "Building Code",
+    "requirement": "Binding periods (Bindungsfristen) for rent and occupancy: 25 or 30 years for rental housing new builds.",
+    "detail": "FRL Öff Wohnen NRW 2024 Abschnitt 2.3 / WFB NRW 2023 Nr. 2.3: 'Dauer der Zweckbindung beträgt einheitlich für alle geförderten Wohnungen wahlweise 25 oder 30 Jahre.' The binding period is chosen by the applicant at the time of the funding application and is fixed in the Förderzusage. For apprentice and student housing (Abschnitt 6.3) options extend to 25, 30, 35, or 40 years. Extensions of up to 10–15 additional years are possible in exchange for supplementary subsidy. The Bindung covers both Belegungs- and Mietpreisbindung simultaneously.",
+    "source_law": "FRL Öff Wohnen NRW 2024 Abschnitt 2.3; WFB NRW 2023 Nr. 2.3",
+    "source_url": "https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/NRW/frl-oeffentliches-wohnen-nrw-2024.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true
+  }
+]
