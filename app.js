@@ -28,6 +28,7 @@ const STRINGS = {
     colUnmet:             'Not Met',
     badgeFunding:         'Funding relevant',
     badgeLocal:           'Local verification required',
+    badgeUnverified:      '⚠ Source not confirmed',
     lastVerified:         'Last verified:',
     staleWarning:         'Verify – over 12 months old',
     pdfTitle:             'Compliance Report',
@@ -112,6 +113,7 @@ const STRINGS = {
     colUnmet:             'Nicht erfüllt',
     badgeFunding:         'Förderrelevant',
     badgeLocal:           'Lokale Prüfung erforderlich',
+    badgeUnverified:      '⚠ Quelle nicht bestätigt',
     lastVerified:         'Zuletzt geprüft:',
     staleWarning:         'Prüfen – über 12 Monate alt',
     pdfTitle:             'Compliance-Bericht',
@@ -178,9 +180,14 @@ const STRINGS = {
 };
 
 const CATEGORY_ORDER = [
-  'Planning & Zoning', 'Building Code', 'Fire Safety', 'Accessibility',
-  'Energy & Sustainability', 'Room Standards', 'Proximity Restrictions',
-  'Staffing & Operations', 'Funding Eligibility', 'Permits & Approvals'
+  'Planning & Zoning', 'Planung & Baurecht',
+  'Building Code', 'Gebäudeausführung',
+  'Fire Safety', 'Brandschutz',
+  'Accessibility', 'Barrierefreiheit',
+  'Energy & Sustainability', 'Energie',
+  'Room Standards', 'Proximity Restrictions',
+  'Staffing & Operations', 'Funding Eligibility', 'Permits & Approvals',
+  'Denkmalschutz',
 ];
 
 // Grouped dropdown structure — add new types here as data is added
@@ -479,8 +486,9 @@ function buildReqItem(req) {
     ? `<span class="req-stale">${t('staleWarning')}</span>`
     : '';
 
-  const localBadge   = isLocal  ? `<span class="req-badge-local">${t('badgeLocal')}</span>` : '';
-  const fundingBadge = req.applies_to_funding ? `<span class="req-badge-funding">${t('badgeFunding')}</span>` : '';
+  const localBadge      = isLocal  ? `<span class="req-badge-local">${t('badgeLocal')}</span>` : '';
+  const fundingBadge    = req.applies_to_funding ? `<span class="req-badge-funding">${t('badgeFunding')}</span>` : '';
+  const unverifiedBadge = req.verified === false ? `<span class="req-badge-unverified">${t('badgeUnverified')}</span>` : '';
 
   li.innerHTML = `
     <input type="checkbox" class="req-checkbox" ${isMet ? 'checked' : ''}
@@ -503,7 +511,7 @@ function buildReqItem(req) {
           </svg>
           ${t('lastVerified')} ${escapeHtml(req.last_verified)}
         </span>
-        ${staleMeta}${fundingBadge}${localBadge}
+        ${staleMeta}${fundingBadge}${localBadge}${unverifiedBadge}
       </div>
     </div>
   `;
