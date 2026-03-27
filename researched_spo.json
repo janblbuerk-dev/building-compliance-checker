@@ -1,0 +1,79 @@
+[
+  {
+    "id": "NRW-SPO-001",
+    "category": "Planung & Baurecht",
+    "requirement": "Sportstätten bis zu einer bestimmten Größe als Anlagen für sportliche Zwecke in Wohngebieten zulässig; Sportstadien mit > 5 000 Besucherplätzen sind große Sonderbauten",
+    "detail": "§ 4 Abs. 2 Nr. 3 BauNVO: 'Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke' sind in allgemeinen Wohngebieten allgemein zulässig. Größere Sportkomplexe, die sich von Standardbaugebieten wesentlich unterscheiden, sind nach § 11 Abs. 1 BauNVO als sonstige Sondergebiete festzusetzen: 'Als sonstige Sondergebiete sind solche Gebiete darzustellen und festzusetzen, die sich von den Baugebieten nach den §§ 2 bis 10 wesentlich unterscheiden.' BauO NRW § 50 Abs. 2: 'Sportstadien und Freisportanlagen mit Tribünen, die keine Fliegenden Bauten sind, und die jeweils für insgesamt mehr als 5 000 Besucherinnen und Besucher bestimmt sind' gelten als große Sonderbauten; für sie gilt das vollständige Baugenehmigungsverfahren nach § 65 BauO NRW.",
+    "source_law": "§ 4 Abs. 2 Nr. 3 BauNVO; § 11 Abs. 1 BauNVO; § 50 Abs. 2 BauO NRW 2018",
+    "source_url": "https://www.gesetze-im-internet.de/baunvo/__4.html",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SPO-002",
+    "category": "Planung & Baurecht",
+    "requirement": "Lärmschutz bei Sportanlagen nach 18. BImSchV: Immissionsrichtwert in allgemeinen Wohngebieten 55 dB(A) tags (außerhalb Ruhezeiten), 40 dB(A) nachts",
+    "detail": "§ 2 der 18. BImSchV (Sportanlagen-Lärmschutzverordnung) legt gebietsbezogene Immissionsrichtwerte fest. Für allgemeine Wohngebiete und Kleinsiedlungsgebiete: außerhalb der Ruhezeiten 55 dB(A), innerhalb der Ruhezeiten werktags 50 dB(A), sonntags/feiertags 50 dB(A), nachts 40 dB(A). Für reine Wohngebiete: 50/45/35 dB(A). Für Kern-, Dorf- und Mischgebiete: 60/55/45 dB(A). Für Gewerbegebiete: 65/60/50 dB(A). Innerhalb von Gebäuden gelegene Immissionsrichtwerte: 35 dB(A) tags, 25 dB(A) nachts. Die Sportanlage darf diese Werte am Immissionsort nicht überschreiten; der Bebauungsplan hat Schutzabstände zu sichern.",
+    "source_law": "§ 2 18. BImSchV (Sportanlagen-Lärmschutzverordnung)",
+    "source_url": "https://www.gesetze-im-internet.de/bimschv_18/__2.html",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SPO-003",
+    "category": "Gebäudeausführung",
+    "requirement": "Sporthallen müssen nach DIN 18032-1 gebaut werden: Hallenmaße, Hallenhöhe (mind. 7,0 m in der Spielzone), Prallschutz und Sportböden",
+    "detail": "DIN 18032-1 (Sporthallen für Schul- und Vereinssport — Grundsätze für Planung und Bau) regelt Hallenabmessungen (Einfachhalle: 27×15 m oder 45×24 m Spielfeld), lichte Raumhöhe (mind. 7,0 m in der Spielzone), Prallschutz (mind. 2,0 m Höhe, stoßdämpfend) sowie Sportbodenklassen (DIN V 18032-2). Die Norm gilt über die VV TB NRW als technische Baubestimmung. Da DIN 18032-1 beim DIN-Verlag kostenpflichtig erhältlich ist, kann der Normtext hier nicht verbatim zitiert werden.",
+    "source_law": "DIN 18032-1 i. V. m. VV TB NRW",
+    "source_url": "https://www.beuth.de/",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": true,
+    "verified": false
+  },
+  {
+    "id": "NRW-SPO-004",
+    "category": "Barrierefreiheit",
+    "requirement": "Sportstätten müssen als öffentlich zugängliche Anlagen vollständig barrierefrei nach BauO NRW § 49 Abs. 2 sein",
+    "detail": "§ 49 Abs. 2 Satz 1 BauO NRW 2018: 'Bauliche Anlagen, die öffentlich zugänglich sind, müssen barrierefrei sein. Öffentlich zugänglich sind bauliche Anlagen, wenn und soweit sie nach ihrem Zweck im Zeitraum ihrer Nutzung von im Vorhinein nicht bestimmbaren Personen aufgesucht werden können.' Sportstätten fallen unter diese Pflicht. Weiterhin gilt nach § 49 Abs. 2: 'Toilettenräume und notwendige Stellplätze für Besucherinnen und Besucher sowie für Benutzerinnen und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.' Technische Details zu Rollstuhlzuschauerplätzen (mind. 1 % der Gesamtplätze), Türbreiten und Rampen regelt DIN 18040-1 (VV TB NRW).",
+    "source_law": "§ 49 Abs. 2 BauO NRW 2018",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-SPO-005",
+    "category": "Brandschutz",
+    "requirement": "Sporthallen mit Versammlungsräumen für mehr als 200 Besucher unterliegen SBauVO NRW Teil 1 (Versammlungsstätten); Sportstadien mit > 5 000 Besuchern zusätzlich als Sonderbau",
+    "detail": "SBauVO NRW § 1 Abs. 1: 'Die Vorschriften des Ersten Teils gelten für den Bau und Betrieb von Versammlungsstätten mit Versammlungsräumen, die einzeln für mehr als 200 Besucherinnen und Besucher bestimmt sind.' Für Sportstadien und Freisportanlagen mit Tribünen: die SBauVO gilt nach § 1 Abs. 1 Nr. 3 für solche Anlagen, die keine Fliegenden Bauten sind und insgesamt für mehr als 5 000 Besucherinnen und Besucher bestimmt sind. Die SBauVO schreibt vor: Sicherheitsbeleuchtung (DIN EN 1838), Brandmeldeanlagen, Rauchabzugsanlagen bei Saalfläche > 200 m², Mindestbreite der Ausgänge (1,20 m je 200 Personen) und Betriebsplan nach § 43 SBauVO.",
+    "source_law": "§ 1 Abs. 1 SBauVO NRW; § 50 Abs. 2 BauO NRW 2018",
+    "source_url": "https://recht.nrw.de/lmi/owa/br_bes_detail?print=1&anw_nr=2&gld_nr=+0&ugl_nr=0&val=35784&ver=0&aufgehoben=N&keyword=&bes_id=35784&det_id=549665",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SPO-006",
+    "category": "Energie",
+    "requirement": "Sporthallen als Nichtwohngebäude: GEG § 18 — Jahres-Primärenergiebedarf ≤ 0,55faches des Referenzgebäudes; Erneuerbare-Energien-Pflicht für Heizung nach § 71",
+    "detail": "§ 18 Abs. 1 GEG: 'Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55fache des auf die Nettogrundfläche bezogenen Wertes des Jahres-Primärenergiebedarfs eines Referenzgebäudes...' nicht überschreitet. Zusätzlich gilt § 71 Abs. 1 GEG für neue Heizungsanlagen: 'Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme...erzeugt.' Bei Schwimmbädern ist DIN V 18599-10 anzuwenden.",
+    "source_law": "§ 18 Abs. 1 GEG; § 71 Abs. 1 GEG",
+    "source_url": "https://www.gesetze-im-internet.de/geg/__18.html",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SPO-007",
+    "category": "Planung & Baurecht",
+    "requirement": "Stellplatzpflicht nach BauO NRW § 48; bei Nichtwohngebäuden mit > 35 Stellplätzen zusätzliche Solaranlage auf dem Stellplatz",
+    "detail": "§ 48 Abs. 1 BauO NRW 2018: Bei Errichtung von Anlagen mit Zu- und Abfahrtsverkehr 'müssen die notwendigen Stellplätze, Garagen und Fahrradabstellplätze auf dem Baugrundstück oder in zumutbarer Entfernung auf einem geeigneten Grundstück mit öffentlich-rechtlicher Sicherung hergestellt werden oder durch Zahlung eines Geldbetrags an die Gemeinde nach Maßgabe der örtlichen Bauvorschriften abgelöst werden.' § 48 Abs. 1a: Für Stellplatzanlagen mit mehr als 35 Stellplätzen bei Nichtwohngebäuden sind auf dem Stellplatz Anlagen zur Solarstromerzeugung zu errichten. Konkrete Richtwerte (z. B. 1 Stellplatz je 10 Zuschauerplätze) legt die gemeindliche Stellplatzsatzung fest.",
+    "source_law": "§ 48 Abs. 1 und 1a BauO NRW 2018",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  }
+]

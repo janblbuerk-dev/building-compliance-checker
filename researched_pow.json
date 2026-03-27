@@ -1,0 +1,79 @@
+[
+  {
+    "id": "NRW-POW-001",
+    "category": "Planung & Baurecht",
+    "requirement": "Gotteshäuser als Anlagen für kirchliche Zwecke in allen Baugebieten zulässig; im reinen Wohngebiet nur ausnahmsweise",
+    "detail": "§ 4 Abs. 2 Nr. 3 BauNVO: 'Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke' sind in allgemeinen Wohngebieten (WA) allgemein zulässig. Für reine Wohngebiete (WR) gilt § 3 Abs. 3 BauNVO, der 'Anlagen für kirchliche Zwecke' nur ausnahmsweise zulässt. In Mischgebieten gilt § 6 Abs. 2 Nr. 5 BauNVO: 'Anlagen für Verwaltungen sowie für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke' sind allgemein zulässig. Gotteshäuser mit Versammlungsräumen für > 200 Besucher sind gemäß BauO NRW § 50 Abs. 2 als Versammlungsstätten einzustufen (Sonderbau); für diese gilt das vollständige Baugenehmigungsverfahren nach § 65 BauO NRW.",
+    "source_law": "§ 3 Abs. 3 BauNVO; § 4 Abs. 2 Nr. 3 BauNVO; § 6 Abs. 2 Nr. 5 BauNVO; § 50 Abs. 2 BauO NRW 2018",
+    "source_url": "https://www.gesetze-im-internet.de/baunvo/__4.html",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-POW-002",
+    "category": "Brandschutz",
+    "requirement": "Gotteshäuser mit Kirchenräumen für > 200 Besucher unterliegen der SBauVO NRW (Teil 1 — Versammlungsstätten)",
+    "detail": "SBauVO NRW § 1 Abs. 1: 'Die Vorschriften des Ersten Teils gelten für den Bau und Betrieb von Versammlungsstätten mit Versammlungsräumen, die einzeln für mehr als 200 Besucherinnen und Besucher bestimmt sind.' Kirchenräume großer Gotteshäuser fallen regelmäßig unter diese Schwelle. Die SBauVO schreibt vor: Brandmeldeanlagen (BMZ), Sicherheitsbeleuchtung nach DIN EN 1838, Rauchabzugsanlagen bei Saalfläche > 200 m², Mindestbreite der Ausgänge (1,20 m je 200 Personen), Kennzeichnung der Rettungswege und Betriebsplan nach § 43 SBauVO. Gotteshäuser < 200 Personen unterliegen nur den allgemeinen Anforderungen der BauO NRW, insbesondere Brandschutzkonzept nach § 34 BauO NRW.",
+    "source_law": "§ 1 Abs. 1 SBauVO NRW; § 50 Abs. 2 BauO NRW 2018; § 34 BauO NRW 2018",
+    "source_url": "https://recht.nrw.de/lmi/owa/br_bes_detail?print=1&anw_nr=2&gld_nr=+0&ugl_nr=0&val=35784&ver=0&aufgehoben=N&keyword=&bes_id=35784&det_id=549665",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-POW-003",
+    "category": "Barrierefreiheit",
+    "requirement": "Gotteshäuser müssen als öffentlich zugängliche Anlagen vollständig barrierefrei nach BauO NRW § 49 Abs. 2 sein",
+    "detail": "§ 49 Abs. 2 Satz 1 BauO NRW 2018: 'Bauliche Anlagen, die öffentlich zugänglich sind, müssen barrierefrei sein. Öffentlich zugänglich sind bauliche Anlagen, wenn und soweit sie nach ihrem Zweck im Zeitraum ihrer Nutzung von im Vorhinein nicht bestimmbaren Personen aufgesucht werden können.' Gotteshäuser fallen unter diese Pflicht. § 49 Abs. 2 weiter: 'Toilettenräume und notwendige Stellplätze für Besucherinnen und Besucher sowie für Benutzerinnen und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.' Bei bestehenden denkmalgeschützten Gotteshäusern kann nach § 49 Abs. 3 BauO NRW eine Abweichung beantragt werden, wenn die Erfüllung wegen der Besonderheit des Bauvorhabens nur mit unverhältnismäßigem Mehraufwand möglich ist.",
+    "source_law": "§ 49 Abs. 2 und 3 BauO NRW 2018",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-POW-004",
+    "category": "Denkmalschutz",
+    "requirement": "Für Baumaßnahmen an denkmalgeschützten Gotteshäusern ist die denkmalrechtliche Erlaubnis nach DSchG NRW § 9 bei der Unteren Denkmalbehörde einzuholen",
+    "detail": "DSchG NRW § 9 Abs. 1 (Fassung ab 1. Juni 2022): 'Wer ein Baudenkmal oder einen Teil eines Baudenkmals beseitigen, verändern, an einen anderen Ort verbringen oder dessen bisherige Nutzung ändern will, bedarf der Erlaubnis der Unteren Denkmalbehörde.' § 9 Abs. 2: 'Der Erlaubnis bedarf auch, wer in der engeren Umgebung eines Baudenkmals Anlagen errichten, verändern oder beseitigen will, wenn sich dies auf die denkmalwerte Substanz oder das Erscheinungsbild des Baudenkmals auswirken kann.' § 9 Abs. 3: 'Die Erlaubnis...ist zu erteilen, wenn Belange des Denkmalschutzes nicht entgegenstehen oder ein überwiegendes öffentliches Interesse die Maßnahme verlangt. Bei der Entscheidung sind insbesondere auch die Belange des Wohnungsbaus, des Klimas, des Einsatzes erneuerbarer Energien sowie der Barrierefreiheit angemessen zu berücksichtigen.'",
+    "source_law": "§ 9 Abs. 1–3 DSchG NRW (Fassung 01.06.2022)",
+    "source_url": "https://recht.nrw.de/lmi/owa/br_bes_detail?sg=0&menu=0&bes_id=48749&anw_nr=2&aufgehoben=N&det_id=586794",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-POW-005",
+    "category": "Energie",
+    "requirement": "Neubau-Gotteshäuser als Nichtwohngebäude: GEG § 18 (Primärenergie ≤ 0,55faches Referenz) + § 71 (65-%-EE-Pflicht Heizung); denkmalgeschützte Kirchen können GEG § 105 nutzen",
+    "detail": "§ 18 Abs. 1 GEG: 'Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55fache des auf die Nettogrundfläche bezogenen Wertes des Jahres-Primärenergiebedarfs eines Referenzgebäudes...' nicht überschreitet. § 71 Abs. 1 GEG: 'Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme...erzeugt.' Für denkmalgeschützte Kirchengebäude gilt § 105 GEG: 'Soweit bei einem Baudenkmal...die Erfüllung der Anforderungen dieses Gesetzes die Substanz oder das Erscheinungsbild beeinträchtigt oder andere Maßnahmen zu einem unverhältnismäßig hohen Aufwand führen, kann von den Anforderungen dieses Gesetzes abgewichen werden.'",
+    "source_law": "§ 18 Abs. 1 GEG; § 71 Abs. 1 GEG; § 105 GEG",
+    "source_url": "https://www.gesetze-im-internet.de/geg/__18.html",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-POW-006",
+    "category": "Planung & Baurecht",
+    "requirement": "Kirchenglocken und Lärm des Gemeindebetriebs sind sozialadäquate Immissionen; für Veranstaltungen gilt die LAI-Freizeitlärm-Richtlinie",
+    "detail": "Glockenläuten als Ausübung religiöser Praxis gilt nach ständiger Rechtsprechung (BVerwG, Urt. v. 07.10.1983 – 7 C 44/81) als sozialadäquate Immission, die im Rahmen eines Bebauungsplans und nach § 22 BImSchG toleriert werden muss, solange sie nicht rücksichtslos ist. Zeitglocken unterliegen hingegen TA-Lärm-Richtwerten. Für gemeindliche Veranstaltungen (z. B. Gemeindefeste, Konzerte) gelten die Richtwerte der LAI-Freizeitlärm-Richtlinie (2015): allgemeine Wohngebiete 55/40 dB(A), Mischgebiete 60/45 dB(A) (tags/nachts), mit bis zu 18 seltenen Ereignissen pro Jahr bei erhöhten Werten von 70/55 dB(A).",
+    "source_law": "§ 22 BImSchG; LAI-Freizeitlärm-Richtlinie (6. März 2015); BVerwG 7 C 44/81",
+    "source_url": "https://www.schure.de/28500/40502,7,0.htm",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-POW-007",
+    "category": "Planung & Baurecht",
+    "requirement": "Stellplatzpflicht nach BauO NRW § 48; bei Nichtwohngebäuden mit > 35 Stellplätzen zusätzliche Solaranlage auf dem Stellplatz",
+    "detail": "§ 48 Abs. 1 BauO NRW 2018: Bei Errichtung von Anlagen mit Zu- und Abfahrtsverkehr 'müssen die notwendigen Stellplätze, Garagen und Fahrradabstellplätze auf dem Baugrundstück oder in zumutbarer Entfernung auf einem geeigneten Grundstück mit öffentlich-rechtlicher Sicherung hergestellt werden oder durch Zahlung eines Geldbetrags an die Gemeinde nach Maßgabe der örtlichen Bauvorschriften abgelöst werden.' § 48 Abs. 1a: Für Stellplatzanlagen mit mehr als 35 Stellplätzen bei Nichtwohngebäuden sind Solaranlagen zu errichten. Konkrete Richtwerte (z. B. 1 Stellplatz je 5–10 Sitzplätze) legen gemeindliche Stellplatzsatzungen fest. Bestehende denkmalgeschützte Gotteshäuser können über § 67 BauO NRW Abweichungen von der Stellplatzpflicht beantragen.",
+    "source_law": "§ 48 Abs. 1 und 1a BauO NRW 2018; § 67 BauO NRW 2018",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  }
+]

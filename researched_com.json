@@ -1,0 +1,68 @@
+[
+  {
+    "id": "NRW-COM-001",
+    "category": "Planung & Baurecht",
+    "requirement": "Bürgerhäuser und Gemeinschaftszentren als Anlagen für kulturelle und soziale Zwecke in Wohn- und Mischgebieten allgemein zulässig nach BauNVO",
+    "detail": "§ 4 Abs. 2 Nr. 3 BauNVO: 'Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke' sind in allgemeinen Wohngebieten allgemein zulässig. Gleiches gilt nach § 5 Abs. 2 BauNVO für Dorfgebiete und nach § 6 Abs. 2 Nr. 5 BauNVO für Mischgebiete: 'Anlagen für Verwaltungen sowie für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.' In reinen Wohngebieten (§ 3 BauNVO) sind solche Anlagen nur ausnahmsweise nach § 3 Abs. 3 zulässig. Bürgerhäuser mit Versammlungsräumen für > 200 Besucher gelten nach BauO NRW § 50 Abs. 2 als Versammlungsstätten (Sonderbau), wofür das vollständige Baugenehmigungsverfahren nach § 65 BauO NRW erforderlich ist.",
+    "source_law": "§ 4 Abs. 2 Nr. 3 BauNVO; § 6 Abs. 2 Nr. 5 BauNVO; § 50 Abs. 2 BauO NRW 2018",
+    "source_url": "https://www.gesetze-im-internet.de/baunvo/__4.html",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-002",
+    "category": "Brandschutz",
+    "requirement": "Gemeinschaftszentren mit Versammlungsräumen für > 200 Besucher unterliegen der SBauVO NRW (Teil 1 — Versammlungsstätten)",
+    "detail": "SBauVO NRW § 1 Abs. 1: 'Die Vorschriften des Ersten Teils gelten für den Bau und Betrieb von Versammlungsstätten mit Versammlungsräumen, die einzeln für mehr als 200 Besucherinnen und Besucher bestimmt sind.' Bürgerhäuser und Mehrzweckhallen fallen regelmäßig unter diese Schwelle. Anforderungen der SBauVO umfassen u. a.: Brandmeldeanlagen (BMZ), Sicherheitsbeleuchtung (DIN EN 1838), Rauchabzugsanlagen bei Saalflächen > 200 m², Mindestbreite von Ausgängen (1,20 m je 200 gleichzeitig anwesende Personen), Betriebsplan nach § 43 SBauVO sowie Ordnungsdienst ab 500 Besuchern. Für Versammlungsstätten < 200 Personen gelten nur die allgemeinen Vorschriften der BauO NRW.",
+    "source_law": "§ 1 Abs. 1 SBauVO NRW; § 50 Abs. 2 BauO NRW 2018",
+    "source_url": "https://recht.nrw.de/lmi/owa/br_bes_detail?print=1&anw_nr=2&gld_nr=+0&ugl_nr=0&val=35784&ver=0&aufgehoben=N&keyword=&bes_id=35784&det_id=549665",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-003",
+    "category": "Barrierefreiheit",
+    "requirement": "Gemeinschaftseinrichtungen müssen als öffentlich zugängliche Anlagen vollständig barrierefrei nach BauO NRW § 49 Abs. 2 sein",
+    "detail": "§ 49 Abs. 2 Satz 1 BauO NRW 2018: 'Bauliche Anlagen, die öffentlich zugänglich sind, müssen barrierefrei sein. Öffentlich zugänglich sind bauliche Anlagen, wenn und soweit sie nach ihrem Zweck im Zeitraum ihrer Nutzung von im Vorhinein nicht bestimmbaren Personen aufgesucht werden können.' Bürgerhäuser und Gemeinschaftszentren fallen unter diese Pflicht. § 49 Abs. 2 weiter: 'Toilettenräume und notwendige Stellplätze für Besucherinnen und Besucher sowie für Benutzerinnen und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.' Technische Details regelt DIN 18040-1 (eingeführt über VV TB NRW): stufenloser Zugang, Türbreiten ≥ 90 cm, Bewegungsfläche vor Türen, taktile Leitsysteme, rollstuhlgerechte WC.",
+    "source_law": "§ 49 Abs. 2 BauO NRW 2018; DIN 18040-1 i. V. m. VV TB NRW",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-004",
+    "category": "Planung & Baurecht",
+    "requirement": "Lärmschutz für Veranstaltungsbetrieb: TA Lärm für immissionsschutzrechtliche Beurteilung; LAI-Freizeitlärm-Richtlinie für seltene Ereignisse",
+    "detail": "Gemeinschaftszentren mit regelmäßigem Veranstaltungsbetrieb werden nach der LAI-Freizeitlärm-Richtlinie (Beschluss der LAI vom 6. März 2015) bewertet. Die Richtwerte entsprechen denen der TA Lärm: Mischgebiete 60/45 dB(A), allgemeine Wohngebiete 55/40 dB(A), reine Wohngebiete 50/35 dB(A) (tags/nachts). Für 'seltene Ereignisse' (max. 18 Kalendertage/Jahr) sind erhöhte Richtwerte von tags 70 dB(A) und nachts 55 dB(A) zulässig. Musikveranstaltungen mit verstärktem Schall sind nach der LAI-Freizeitlärm-Richtlinie strenger zu beurteilen als Sprache oder Naturgeräusche. Ein schallschutztechnisches Gutachten ist in der Regel Voraussetzung für die Baugenehmigung.",
+    "source_law": "LAI-Freizeitlärm-Richtlinie (6. März 2015); TA Lärm",
+    "source_url": "https://www.schure.de/28500/40502,7,0.htm",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-005",
+    "category": "Energie",
+    "requirement": "Gemeinschaftszentren als Nichtwohngebäude: GEG § 18 — Jahres-Primärenergiebedarf ≤ 0,55faches des Referenzgebäudes; 65-%-EE-Pflicht für Heizung nach § 71",
+    "detail": "§ 18 Abs. 1 GEG: 'Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55fache des auf die Nettogrundfläche bezogenen Wertes des Jahres-Primärenergiebedarfs eines Referenzgebäudes...' nicht überschreitet. § 71 Abs. 1 GEG: 'Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme...erzeugt.' Bürgerhäuser und Mehrzweckhallen werden nach DIN V 18599 bilanziert.",
+    "source_law": "§ 18 Abs. 1 GEG; § 71 Abs. 1 GEG",
+    "source_url": "https://www.gesetze-im-internet.de/geg/__18.html",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-006",
+    "category": "Planung & Baurecht",
+    "requirement": "Stellplatzpflicht nach BauO NRW § 48; bei Nichtwohngebäuden mit > 35 Stellplätzen zusätzliche Pflicht zur Solaranlage auf dem Stellplatz",
+    "detail": "§ 48 Abs. 1 BauO NRW 2018: Bei Errichtung von Anlagen mit Zu- und Abfahrtsverkehr 'müssen die notwendigen Stellplätze, Garagen und Fahrradabstellplätze auf dem Baugrundstück oder in zumutbarer Entfernung auf einem geeigneten Grundstück mit öffentlich-rechtlicher Sicherung hergestellt werden oder durch Zahlung eines Geldbetrags an die Gemeinde nach Maßgabe der örtlichen Bauvorschriften abgelöst werden.' § 48 Abs. 1a: Für Stellplatzanlagen mit mehr als 35 Stellplätzen bei Nichtwohngebäuden sind Anlagen zur Solarstromerzeugung zu errichten. Konkrete Richtwerte (z. B. 1 Stellplatz je 5 Sitzplätze) legt die gemeindliche Stellplatzsatzung fest.",
+    "source_law": "§ 48 Abs. 1 und 1a BauO NRW 2018",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-27",
+    "applies_to_funding": false,
+    "verified": true
+  }
+]
