@@ -1,83 +1,160 @@
 [
   {
-    "id": "NRW-SPO-001",
+    "id": "NRW-HOT-001",
     "category": "Planung & Baurecht",
-    "requirement": "Sportstätten bis zu einer bestimmten Größe als Anlagen für sportliche Zwecke in Wohngebieten zulässig; Sportstadien mit > 5 000 Besucherplätzen sind große Sonderbauten",
-    "detail": "§ 4 Abs. 2 Nr. 3 BauNVO: 'Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke' sind in allgemeinen Wohngebieten allgemein zulässig. Größere Sportkomplexe, die sich von Standardbaugebieten wesentlich unterscheiden, sind nach § 11 Abs. 1 BauNVO als sonstige Sondergebiete festzusetzen: 'Als sonstige Sondergebiete sind solche Gebiete darzustellen und festzusetzen, die sich von den Baugebieten nach den §§ 2 bis 10 wesentlich unterscheiden.' BauO NRW § 50 Abs. 2: 'Sportstadien und Freisportanlagen mit Tribünen, die keine Fliegenden Bauten sind, und die jeweils für insgesamt mehr als 5 000 Besucherinnen und Besucher bestimmt sind' gelten als große Sonderbauten; für sie gilt das vollständige Baugenehmigungsverfahren nach § 65 BauO NRW.",
-    "source_law": "§ 4 Abs. 2 Nr. 3 BauNVO; § 11 Abs. 1 BauNVO; § 50 Abs. 2 BauO NRW 2018",
-    "source_url": "https://www.gesetze-im-internet.de/baunvo/__4.html",
-    "last_verified": "2026-03-27",
+    "requirement": "Bebauungsplanung: Beherbergungsstätten (Hotels) im Kerngebiet (MK)",
+    "detail": "§ 7 Abs. 1 BauNVO: 'Kerngebiete dienen vorwiegend der Unterbringung von Handelsbetrieben sowie der zentralen Einrichtungen der Wirtschaft, der Verwaltung und der Kultur.' Gemäß § 7 Abs. 2 Nr. 2 BauNVO sind 'Schank- und Speisewirtschaften, Beherbergungsbetriebe' im Kerngebiet (MK) allgemein zulässig. Das Kerngebiet ist damit die bevorzugte Baugebietsart für Hotels.",
+    "source_law": "BauNVO § 7 Abs. 2 Nr. 2",
+    "source_url": "https://www.gesetze-im-internet.de/baunvo/__7.html",
+    "last_verified": "2026-03-26",
     "applies_to_funding": false,
     "verified": true
   },
   {
-    "id": "NRW-SPO-002",
+    "id": "NRW-HOT-002",
     "category": "Planung & Baurecht",
-    "requirement": "Lärmschutz bei Sportanlagen nach 18. BImSchV: Immissionsrichtwert in allgemeinen Wohngebieten 55 dB(A) tags (außerhalb Ruhezeiten), 40 dB(A) nachts",
-    "detail": "§ 2 der 18. BImSchV (Sportanlagen-Lärmschutzverordnung) legt gebietsbezogene Immissionsrichtwerte fest. Für allgemeine Wohngebiete und Kleinsiedlungsgebiete: außerhalb der Ruhezeiten 55 dB(A), innerhalb der Ruhezeiten werktags 50 dB(A), sonntags/feiertags 50 dB(A), nachts 40 dB(A). Für reine Wohngebiete: 50/45/35 dB(A). Für Kern-, Dorf- und Mischgebiete: 60/55/45 dB(A). Für Gewerbegebiete: 65/60/50 dB(A). Innerhalb von Gebäuden gelegene Immissionsrichtwerte: 35 dB(A) tags, 25 dB(A) nachts. Die Sportanlage darf diese Werte am Immissionsort nicht überschreiten; der Bebauungsplan hat Schutzabstände zu sichern.",
-    "source_law": "§ 2 18. BImSchV (Sportanlagen-Lärmschutzverordnung)",
-    "source_url": "https://www.gesetze-im-internet.de/bimschv_18/__2.html",
-    "last_verified": "2026-03-27",
+    "requirement": "Bebauungsplanung: Beherbergungsstätten im Mischgebiet (MI)",
+    "detail": "§ 6 Abs. 1 BauNVO: 'Mischgebiete dienen dem Wohnen und der Unterbringung von Gewerbebetrieben, die das Wohnen nicht wesentlich stören.' Gemäß § 6 Abs. 2 Nr. 3 BauNVO sind 'Schank- und Speisewirtschaften, Beherbergungsgewerbe' im Mischgebiet (MI) allgemein zulässig. Hotels sind in Mischgebieten damit grundsätzlich bauplanungsrechtlich zulässig, solange sie das Wohnen nicht wesentlich stören.",
+    "source_law": "BauNVO § 6 Abs. 2 Nr. 3",
+    "source_url": "https://www.gesetze-im-internet.de/baunvo/__6.html",
+    "last_verified": "2026-03-26",
     "applies_to_funding": false,
     "verified": true
   },
   {
-    "id": "NRW-SPO-003",
-    "category": "Gebäudeausführung",
-    "requirement": "Sporthallen müssen nach DIN 18032-1 gebaut werden: Hallenmaße, Hallenhöhe (mind. 7,0 m in der Spielzone), Prallschutz und Sportböden",
-    "detail": "DIN 18032-1 (Sporthallen für Schul- und Vereinssport — Grundsätze für Planung und Bau) regelt Hallenabmessungen (Einfachhalle: 27×15 m oder 45×24 m Spielfeld), lichte Raumhöhe (mind. 7,0 m in der Spielzone), Prallschutz (mind. 2,0 m Höhe, stoßdämpfend) sowie Sportbodenklassen (DIN V 18032-2). Die Norm gilt über die VV TB NRW als technische Baubestimmung. Da DIN 18032-1 beim DIN-Verlag kostenpflichtig erhältlich ist, kann der Normtext hier nicht verbatim zitiert werden.",
-    "source_law": "DIN 18032-1 i. V. m. VV TB NRW",
-    "source_url": "https://www.beuth.de/",
-    "last_verified": "2026-03-27",
-    "applies_to_funding": true,
-    "verified": false
+    "id": "NRW-HOT-003",
+    "category": "Sonderbau & Genehmigung",
+    "requirement": "Sonderbauschwelle: Beherbergungsstätten mit mehr als 30 Betten",
+    "detail": "§ 50 Abs. 2 Nr. 7 BauO NRW 2018: Zu den großen Sonderbauten zählen 'Schank- und Speisewirtschaften mit mehr als 200 Gastplätzen; Beherbergungsstätten mit mehr als 30 Betten; Spielhallen und ähnliche Unternehmen.' Hotels mit mehr als 30 Betten sind damit große Sonderbauten, für die verschärfte Anforderungen nach § 50 Abs. 1 und ein Brandschutzkonzept (§ 50 Abs. 2 Satz 2) erforderlich sind. Für die Baugenehmigung ist das Verfahren nach § 65 BauO NRW anzuwenden.",
+    "source_law": "BauO NRW 2018 § 50 Abs. 2 Nr. 7",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
   },
   {
-    "id": "NRW-SPO-004",
+    "id": "NRW-HOT-004",
+    "category": "Brandschutz – Grundanforderung",
+    "requirement": "Allgemeine Brandschutzpflicht",
+    "detail": "§ 14 BauO NRW 2018: 'Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.' Diese Generalklausel gilt für alle Gebäude und ist für Hotels als Sonderbau durch die SBauVO NRW (Teil 2: Beherbergungsstätten) konkretisiert.",
+    "source_law": "BauO NRW 2018 § 14",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-HOT-005",
+    "category": "Brandschutz – Rettungswege",
+    "requirement": "Zwei voneinander unabhängige Rettungswege je Nutzungseinheit",
+    "detail": "§ 33 Abs. 1 BauO NRW 2018: 'Für Nutzungseinheiten wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein.' Für Beherbergungsstätten konkretisiert § 49 SBauVO NRW: Aus jedem Beherbergungsraum müssen mindestens zwei voneinander unabhängige Rettungswege vorhanden sein. Der erste Rettungsweg führt über eine notwendige Treppe, der zweite über eine weitere notwendige Treppe oder Außentreppe. Bei Beherbergungsstätten mit insgesamt höchstens 60 Gastbetten kann der zweite Rettungsweg durch die Erreichbarkeit mit Feuerwehrleiter ersetzt werden, sofern nicht mehr als 30 Gastbetten auf einem Geschoss liegen.",
+    "source_law": "BauO NRW 2018 § 33 Abs. 1; SBauVO NRW § 49",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-HOT-006",
+    "category": "Brandschutz – Rettungswege",
+    "requirement": "Maximale Rettungsweglänge in Beherbergungsstätten: 35 m",
+    "detail": "SBauVO NRW Teil 2 (Beherbergungsstätten): 'Die Länge zum Erreichen des Ausgangs ins Freie oder eines notwendigen Treppenraums darf maximal 35 m betragen.' Diese Vorgabe zur Rettungsweglänge gilt für jeden Punkt aus einem Beherbergungsraum bis zum nächsten sicheren Fluchtweg. Notwendige Flure müssen eine lichte Breite von mindestens 1,20 m aufweisen. Diese Anforderungen entsprechen der Muster-Beherbergungsstättenverordnung (MBeVO) und sind in NRW über die SBauVO NRW verbindlich.",
+    "source_law": "SBauVO NRW § 49 (Teil 2: Beherbergungsstätten)",
+    "source_url": "https://recht.nrw.de/lrgv/rechtsverordnung/15112019-verordnung-ueber-bau-und-betrieb-von-sonderbauten/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-HOT-007",
+    "category": "Brandschutz – Türen & Wände",
+    "requirement": "Selbstschließende, rauchdichte Türen zu Beherbergungsräumen",
+    "detail": "SBauVO NRW § 53 (Türen von Beherbergungsstätten): Türen und Tore in raumabschließenden Innenwänden, die feuerhemmend sein müssen, sowie in inneren Brandwänden müssen mindestens feuerhemmend, rauchdicht und selbstschließend sein. Türen in raumabschließenden Innenwänden, die feuerhemmend sein müssen, müssen mindestens rauchdicht und selbstschließend sein. Dies gilt insbesondere für alle Türen zu Beherbergungsräumen (Gästezimmertüren) und zu notwendigen Treppenräumen.",
+    "source_law": "SBauVO NRW § 53",
+    "source_url": "https://recht.nrw.de/lrgv/rechtsverordnung/15112019-verordnung-ueber-bau-und-betrieb-von-sonderbauten/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-HOT-008",
+    "category": "Brandschutz – Raucherkennung",
+    "requirement": "Rauchwarnmelder in jedem Beherbergungsraum (bis 60 Betten); Brandmeldeanlage ab 61 Betten",
+    "detail": "SBauVO NRW § 55 (Alarmierungseinrichtungen, Brandmeldeanlagen): In Beherbergungsstätten mit höchstens 60 Gastbetten muss 'jeder Beherbergungsraum mindestens einen Rauchwarnmelder haben', sodass 'Brandrauch frühzeitig erkannt und gemeldet wird.' Beherbergungsstätten mit mehr als 60 Gastbetten müssen über eine Brandmeldeanlage mit 'selbsttätigen Brandmeldern, die auf die Kenngröße Rauch in den notwendigen Fluren und in den Beherbergungsräumen ansprechen' verfügen. Zusätzlich sind nichtselbsttätige Brandmelder (Handfeuermelder) für die unmittelbare Alarmierung vorzuhalten. In Beherbergungsstätten aller Größen sind Alarmierungseinrichtungen vorzusehen, 'durch die im Gefahrenfall die Betriebsangehörigen und Gäste gewarnt werden können.'",
+    "source_law": "SBauVO NRW § 55",
+    "source_url": "https://recht.nrw.de/lrgv/rechtsverordnung/15112019-verordnung-ueber-bau-und-betrieb-von-sonderbauten/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-HOT-009",
     "category": "Barrierefreiheit",
-    "requirement": "Sportstätten müssen als öffentlich zugängliche Anlagen vollständig barrierefrei nach BauO NRW § 49 Abs. 2 sein",
-    "detail": "§ 49 Abs. 2 Satz 1 BauO NRW 2018: 'Bauliche Anlagen, die öffentlich zugänglich sind, müssen barrierefrei sein. Öffentlich zugänglich sind bauliche Anlagen, wenn und soweit sie nach ihrem Zweck im Zeitraum ihrer Nutzung von im Vorhinein nicht bestimmbaren Personen aufgesucht werden können.' Sportstätten fallen unter diese Pflicht. Weiterhin gilt nach § 49 Abs. 2: 'Toilettenräume und notwendige Stellplätze für Besucherinnen und Besucher sowie für Benutzerinnen und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.' Technische Details zu Rollstuhlzuschauerplätzen (mind. 1 % der Gesamtplätze), Türbreiten und Rampen regelt DIN 18040-1 (VV TB NRW).",
-    "source_law": "§ 49 Abs. 2 BauO NRW 2018",
-    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
-    "last_verified": "2026-03-27",
+    "requirement": "Barrierefreie Gästezimmer: mind. 10 % (bzw. 20 % ab 31 Betten)",
+    "detail": "SBauVO NRW § 56 Abs. 1 (Barrierefreie Beherbergungsstätten): 'Mindestens 10 Prozent der Gastbetten müssen in Beherbergungsräumen liegen, die einschließlich der zugehörigen Sanitärräume den Anforderungen an barrierefrei und eingeschränkt mit dem Rollstuhl nutzbare Wohnungen gemäß § 49 Absatz 1 BauO NRW 2018 entsprechen.' Für Beherbergungsstätten mit mehr als 30 Gastbetten gilt § 56 Abs. 2: 'mindestens 20 Prozent der Gastbetten' müssen barrierefrei nutzbar und 'mindestens ein Prozent der Gastbetten in Beherbergungsräumen liegen, die einschließlich der zugehörigen Sanitärräume barrierefrei und uneingeschränkt mit dem Rollstuhl nutzbar und für zwei Gastbetten geeignet sind.' Grundlage ist § 49 BauO NRW 2018, der bestimmt, dass öffentlich zugängliche Anlagen barrierefrei sein müssen.",
+    "source_law": "SBauVO NRW § 56; BauO NRW 2018 § 49",
+    "source_url": "https://recht.nrw.de/lrgv/rechtsverordnung/15112019-verordnung-ueber-bau-und-betrieb-von-sonderbauten/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-HOT-010",
+    "category": "Energie – Primärenergie",
+    "requirement": "Jahresprimärenergiebedarf Nichtwohngebäude: max. 0,55-facher Referenzwert",
+    "detail": "§ 18 Abs. 1 GEG 2023: Nichtwohngebäude müssen so errichtet werden, 'dass der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55-fache des entsprechenden Referenzgebäudes' nicht überschreitet. Hotels fallen als Nichtwohngebäude (gewerbliche Nutzung) vollständig unter diese Anforderung. Die Berechnung des Referenzgebäudes erfolgt nach §§ 21–27, § 30 und §§ 32–33 GEG. Für Sanierungen bestehender Hotels gelten abweichende Anforderungen nach § 48 GEG.",
+    "source_law": "GEG 2023 § 18 Abs. 1",
+    "source_url": "https://www.gesetze-im-internet.de/geg/__18.html",
+    "last_verified": "2026-03-26",
     "applies_to_funding": true,
     "verified": true
   },
   {
-    "id": "NRW-SPO-005",
-    "category": "Brandschutz",
-    "requirement": "Sporthallen mit Versammlungsräumen für mehr als 200 Besucher unterliegen SBauVO NRW Teil 1 (Versammlungsstätten); Sportstadien mit > 5 000 Besuchern zusätzlich als Sonderbau",
-    "detail": "SBauVO NRW § 1 Abs. 1: 'Die Vorschriften des Ersten Teils gelten für den Bau und Betrieb von Versammlungsstätten mit Versammlungsräumen, die einzeln für mehr als 200 Besucherinnen und Besucher bestimmt sind.' Für Sportstadien und Freisportanlagen mit Tribünen: die SBauVO gilt nach § 1 Abs. 1 Nr. 3 für solche Anlagen, die keine Fliegenden Bauten sind und insgesamt für mehr als 5 000 Besucherinnen und Besucher bestimmt sind. Die SBauVO schreibt vor: Sicherheitsbeleuchtung (DIN EN 1838), Brandmeldeanlagen, Rauchabzugsanlagen bei Saalfläche > 200 m², Mindestbreite der Ausgänge (1,20 m je 200 Personen) und Betriebsplan nach § 43 SBauVO.",
-    "source_law": "§ 1 Abs. 1 SBauVO NRW; § 50 Abs. 2 BauO NRW 2018",
-    "source_url": "https://recht.nrw.de/lmi/owa/br_bes_detail?print=1&anw_nr=2&gld_nr=+0&ugl_nr=0&val=35784&ver=0&aufgehoben=N&keyword=&bes_id=35784&det_id=549665",
-    "last_verified": "2026-03-27",
+    "id": "NRW-HOT-011",
+    "category": "Energie – Wärmeschutz",
+    "requirement": "Baulicher Wärmeschutz: Einhaltung der Höchst-U-Werte nach Anlage 3 GEG",
+    "detail": "§ 19 GEG 2023: 'Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass die Höchstwerte der mittleren Wärmedurchgangskoeffizienten der wärmeübertragenden Umfassungsfläche der Anlage 3 nicht überschritten werden.' Hotels als Nichtwohngebäude müssen die in Anlage 3 GEG festgelegten U-Wert-Obergrenzen für Außenwände, Dächer, Fenster und Türen einhalten. Diese Anforderung gilt für Neubauten; für bestehende Hotels bei Sanierungsmaßnahmen gilt § 48 GEG.",
+    "source_law": "GEG 2023 § 19",
+    "source_url": "https://www.gesetze-im-internet.de/geg/__19.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-HOT-012",
+    "category": "Energie – Heizung & Erneuerbare Energien",
+    "requirement": "Heizungsanlage: mindestens 65 % erneuerbare Energien",
+    "detail": "§ 71 Abs. 1 GEG 2023: 'Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme' erzeugt. Automatisch konform (ohne Berechnung) sind u.a.: Wärmepumpen, Wärmenetzanschlüsse, Solarthermie, Biomasse- und Wasserstoffsysteme sowie Hybridanlagen. Fossile Heizanlagen, die nach dem 31.12.2023 eingebaut werden, müssen stufenweise mit erneuerbaren Anteilen nachgerüstet werden (15 % bis 2029, 30 % bis 2035, 60 % bis 2040).",
+    "source_law": "GEG 2023 § 71 Abs. 1",
+    "source_url": "https://www.gesetze-im-internet.de/geg/__71.html",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-HOT-013",
+    "category": "Stellplätze & Solar",
+    "requirement": "Photovoltaikpflicht über Stellplätzen bei mehr als 35 notwendigen Kfz-Stellplätzen",
+    "detail": "§ 48 Abs. 1a BauO NRW 2018 i.V.m. Solaranlagen-Verordnung NRW (SAN-VO NRW, in Kraft ab 19.06.2024): Bei der Errichtung von solargeeigneten Stellplatzflächen mit mehr als 35 notwendigen Stellplätzen für Kraftfahrzeuge für Nichtwohngebäude ist über diesen eine Photovoltaikanlage zu errichten. Die Mindestfläche der Photovoltaikanlage beträgt 30 Prozent der solargeeigneten Stellplatzfläche. Bei Erweiterungen oder Umbauten bestehender Stellplätze sind nur die durch Baumaßnahmen neu errichteten Stellplätze zu berücksichtigen.",
+    "source_law": "BauO NRW 2018 § 48 Abs. 1a; SAN-VO NRW",
+    "source_url": "https://recht.nrw.de/lrgv/rechtsverordnung/19062024-verordnung-zur-umsetzung-der-solaranlagen-pflicht-nach-ss-42a-und-ss/",
+    "last_verified": "2026-03-26",
     "applies_to_funding": false,
     "verified": true
   },
   {
-    "id": "NRW-SPO-006",
-    "category": "Energie",
-    "requirement": "Sporthallen als Nichtwohngebäude: GEG § 18 — Jahres-Primärenergiebedarf ≤ 0,55faches des Referenzgebäudes; Erneuerbare-Energien-Pflicht für Heizung nach § 71",
-    "detail": "§ 18 Abs. 1 GEG: 'Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55fache des auf die Nettogrundfläche bezogenen Wertes des Jahres-Primärenergiebedarfs eines Referenzgebäudes...' nicht überschreitet. Zusätzlich gilt § 71 Abs. 1 GEG für neue Heizungsanlagen: 'Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme...erzeugt.' Bei Schwimmbädern ist DIN V 18599-10 anzuwenden.",
-    "source_law": "§ 18 Abs. 1 GEG; § 71 Abs. 1 GEG",
-    "source_url": "https://www.gesetze-im-internet.de/geg/__18.html",
-    "last_verified": "2026-03-27",
+    "id": "NRW-HOT-014",
+    "category": "Arbeitsschutz – Personalräume",
+    "requirement": "Sanitärräume und Pausenräume für Hotelpersonal",
+    "detail": "ArbStättV Anhang 4.1: 'Der Arbeitgeber hat Toilettenräume zur Verfügung zu stellen. Toilettenräume sind für Männer und Frauen getrennt einzurichten oder es ist eine getrennte Nutzung zu ermöglichen.' Umkleideräume mit verschließbaren Schließfächern sind bereitzustellen, wenn Beschäftigte Arbeitskleidung tragen müssen. ArbStättV Anhang 4.2: 'Bei mehr als zehn Beschäftigten oder wenn die Sicherheit und der Schutz der Gesundheit es erfordern, ist den Beschäftigten ein Pausenraum oder ein entsprechender Pausenbereich zur Verfügung zu stellen.' Pausenräume sind mit Tischen und Sitzgelegenheiten mit Rückenlehne auszustatten. Diese Anforderungen gelten für alle Arbeitgeber, d.h. auch für Hotelbetreiber gegenüber ihrem Personal.",
+    "source_law": "ArbStättV Anhang 4.1, 4.2",
+    "source_url": "https://www.gesetze-im-internet.de/arbst_ttv_2004/anhang.html",
+    "last_verified": "2026-03-26",
     "applies_to_funding": false,
     "verified": true
   },
   {
-    "id": "NRW-SPO-007",
-    "category": "Planung & Baurecht",
-    "requirement": "Stellplatzpflicht nach BauO NRW § 48; bei Nichtwohngebäuden mit > 35 Stellplätzen zusätzliche Solaranlage auf dem Stellplatz",
-    "detail": "§ 48 Abs. 1 BauO NRW 2018: Bei Errichtung von Anlagen mit Zu- und Abfahrtsverkehr 'müssen die notwendigen Stellplätze, Garagen und Fahrradabstellplätze auf dem Baugrundstück oder in zumutbarer Entfernung auf einem geeigneten Grundstück mit öffentlich-rechtlicher Sicherung hergestellt werden oder durch Zahlung eines Geldbetrags an die Gemeinde nach Maßgabe der örtlichen Bauvorschriften abgelöst werden.' § 48 Abs. 1a: Für Stellplatzanlagen mit mehr als 35 Stellplätzen bei Nichtwohngebäuden sind auf dem Stellplatz Anlagen zur Solarstromerzeugung zu errichten. Konkrete Richtwerte (z. B. 1 Stellplatz je 10 Zuschauerplätze) legt die gemeindliche Stellplatzsatzung fest.",
-    "source_law": "§ 48 Abs. 1 und 1a BauO NRW 2018",
-    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
-    "last_verified": "2026-03-27",
-    "applies_to_funding": false,
-    "verified": true
-  },
-  {
-    "id": "NRW-SPO-018",
+    "id": "NRW-HOT-025",
     "category": "Accessibility",
     "requirement": "DIN 18040-1 Gemeinschaftsbereiche: Das gesamte Gebäude unterliegt DIN 18040-1 (öffentlich zugängliche Gebäude). Die Kernanforderungen entsprechen DIN 18040-2: Verkehrsflächen ≥ 120 cm; Bewegungsflächen 150×150 cm (Rollstuhl) / 180×180 cm (Begegnung alle 15 m); lichte Türbreite ≥ 90 cm; Türgriffhöhe 85–105 cm; Türbedienkraft max. 25 N; Rampengefälle max. 6 %; Aufzug Typ 2 (1100×1400 mm, Tür 900 mm).",
     "detail": "DIN 18040-1:2010-10 (Barrierefreies Bauen – Planungsgrundlagen – Teil 1: Öffentlich zugängliche Gebäude): Für das gesamte Gebäude gelten die Anforderungen der DIN 18040-1 ohne R-Differenzierung. Verkehrsflächen ohne Richtungswechsel: ≥ 120 cm. Rollstuhlwendefläche: 150×150 cm. Begegnung zweier Rollstuhlfahrer: 180×180 cm alle 15 m. Lichte Türbreite: ≥ 90 cm, Höhe ≥ 205 cm. Griffachsmaß: 85–105 cm. Türkraft: max. 25 N (DIN EN 12217 Klasse 3). Glastür-Kontraststreifen: 40–70 cm und 120–160 cm (8 cm breit). Schwellenhöhe max. 1 cm. Rampengefälle max. 6 % ohne Querneigung; Zwischenpodeste 150×150 cm alle 600 cm. Aufzug Typ 2 (630 kg): 1100×1400 mm, Tür 900 mm; Bewegungsfläche davor 150×150 cm, Abstand zu abwärtsführenden Treppen ≥ 300 cm. Einbauten (Mauervorsprünge, Rohrleitungen, Feuerlöscher, Handläufe) dürfen Bewegungsflächen nicht einschränken. Lichte Mindestdurchgangshöhe unter Hindernissen: ≥ 220 cm.",
@@ -88,7 +165,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-019",
+    "id": "NRW-HOT-026",
     "category": "Accessibility",
     "requirement": "Bewegungsflächen und Verkehrsflächen (DIN 18040-1): Flure und Verkehrsflächen ohne Richtungswechsel mindestens 120 cm breit. An Richtungswechseln, vor Aufzügen, an Rampenanfängen und -enden sowie in Schlafräumen, Küchen, Bädern und auf Terrassen: Bewegungsfläche 150×150 cm (R-Standard). Begegnungsflächen von mindestens 180×180 cm alle 15 m. Einbauten wie Mauervorsprünge, Rohrleitungen, Handläufe oder Briefkästen dürfen Bewegungsflächen nicht einschränken.",
     "detail": "DIN 18040-1:2010-10, Abschnitt 4 (Flächen, Platzbedarf): Mindestbreite Verkehrsflächen ohne Richtungswechsel ≥ 120 cm. Rollstuhlwendefläche: 150×150 cm; für Begegnung zweier Rollstuhlfahrer: 180×180 cm (alle 15 m auf Fluren). Türdurchgangsbreiten für Rollstuhlfahrer mindestens 90 cm lichte Breite, innerhalb von Wohnungen ohne Rollstuhlnutzung mindestens 80 cm. Lichte Durchgangshöhe: ≥ 205 cm über OFF. Unterfahrbare Bereiche (z. B. unter Treppen): ≥ 220 cm Kopffreiheit. Schlafzimmer : Bewegungsfläche 150×150 cm an einer Längsseite des Bettes, 120×90 cm an der Gegenseite. 'Diese knapp bemessenen Bewegungsflächen dürfen nicht eingeschränkt werden, z. B. durch Mauervorsprünge, Rohrleitungen, Feuerlöscher, Handläufe, Briefkästen.' Behindertenparkplatz: mindestens 350×500 cm mit 220 cm Deckenhöhe; Rollstuhlstellplatz: 180×150 cm plus gleichwertige Zufahrtsfläche.",
@@ -99,7 +176,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-020",
+    "id": "NRW-HOT-027",
     "category": "Accessibility",
     "requirement": "Türen und Fenster (DIN 18040-1): Lichte Türbreite mindestens 90 cm; lichte Türhöhe mindestens 205 cm. Griffhöhe (Achsmaß) 85–105 cm über OFF; Eingangstüren möglichst automatisch oder mit Türöffner. Bedienelemente mit maximaler Schließkraft 25 N (Klasse 3 nach DIN EN 12217). Glastüren mit Kontrastmarkierungen in zwei Höhenbändern (40–70 cm und 120–160 cm). Fenster: mindestens ein Fenster je Raum muss leicht zu öffnen sein, Griffhöhe 85–105 cm. Keine absenkbaren Türanschläge.",
     "detail": "DIN 18040-1:2010-10, Abschnitt 5.3 (Türen, Fenster): Lichte Durchgangsbreite ≥ 90 cm (R-Standard), lichte Durchgangshöhe ≥ 205 cm über OFF (Oberkante Fertigfußboden). Griffachsmaß: grundsätzlich 85 cm, zulässiger Bereich 85–105 cm über OFF. Seitlicher Abstand von Bedienelementen zur Hauptschließkante: ≥ 50 cm; frontaler Anfahrweg (Öffnungsrichtung) ≥ 250 cm, (Schließrichtung) ≥ 150 cm; bei Schiebetüren frontal je Seite ≥ 150 cm. Türkräfte: maximale Schließkraft 25 N, maximales Handmoment 2,5 Nm, maximale Fingerkraft 6 N (alle nach DIN EN 12217, Klasse 3). Rauch- und Brandschutztüren: maximal Größe 3 nach DIN EN 1154; bei Überschreitung automatische Feststellanlage erforderlich. Schwellenhöhe wenn unvermeidbar: maximal 2 cm abgeschrägt oder gerundet. Türspion (für Rollstuhlfahrer): 120 cm über OFF. Fenstergriffhöhe (R-Standard) 85–105 cm; alternativ Fensteröffner zulässig.",
@@ -110,7 +187,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-021",
+    "id": "NRW-HOT-028",
     "category": "Accessibility",
     "requirement": "Brandschutz und Evakuierung (DIN 18040-1): Für jeden Rollstuhlfahrer ist ein gesicherter Wartebereich von mindestens 130×90 cm in Rettungswegnähe (notwendiger Treppenraum oder angrenzender Raum) vorzusehen. Alarmanlage nach Zwei-Sinne-Prinzip: optische Blitzleuchten in allen Räumen und Fluren; akustische Sprachdurchsagen auf Rettungswegen; taktile Orientierungssysteme für Blinde. Rettungsweg-Beschilderung bodennahe Markierung und Hochkontrast. Barrierefreie Notrufanlage im Wartebereich erforderlich.",
     "detail": "DIN 18040-1:2010-10, Abschnitt Brandschutz: Gesicherte Wartebereiche ('sichere Orte') für Rollstuhlfahrer: je Rollstuhlfahrer mindestens 130×90 cm Stellfläche, nicht überlappend mit Verkehrsflächen; im notwendigen Treppenraum oder einem unmittelbar angrenzenden Raum; Größe nach Brandschutzkonzept/Evakuierungsplanung zu bemessen. Barrierefreier Notruf: in geschlossenen Wartebereichen zwingend erforderlich. Alarmierung nach Zwei-Sinne-Prinzip: (1) Optisch: Blitzleuchten in Räumen und Fluren für Gehörlose; (2) Akustisch: Sprachdurchsagen mit ausreichender Deutlichkeit; (3) Taktil: taktile Leitsysteme für Blinde und Sehbehinderte. Rettungswegkennzeichnung: Hochkontrast; bodennahe Markierungen; dynamische Evakuierungsanzeigen mit akustischen Komponenten. Sicherheitsbeleuchtung nach DIN EN 1838. Rauchmelder mit akustischem und optischem Signal. Evakuierungshilfen für Mobilitätseingeschränkte (z. B. Evakuierungsstuhl) einzuplanen.",
@@ -121,7 +198,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-022",
+    "id": "NRW-HOT-029",
     "category": "Accessibility",
     "requirement": "Sanitärräume Gemeinschaftsbereich (DIN 18040-1): Je Sanitäranlage mindestens eine rollstuhlgerechte geschlechtsneutrale Toilette. Bewegungsflächen 150×150 cm vor allen Sanitärobjekten (Überlagerung zulässig). WC-Sitzhöhe 46–48 cm inkl. Brille; Stützklappgriffe beidseitig (Oberkante 28 cm über Sitz, Abstand 65–70 cm, Traglast 1 kN). Waschtisch unterfahrbar: max. 80 cm Höhe, ≥ 55 cm Kniefreiheit-Tiefe, ≥ 90 cm Breite, Armatur max. 40 cm von Vorderkante. Dusche niveaugleich, Rutschhemmklasse B (DGUV)/R10. Notrufanlage nach DIN VDE 0834-1 mit Zugknopf auf Bodenniveau. Keine in den Sanitärraum aufschlagende Drehflügeltüren.",
     "detail": "DIN 18040-1:2010-10, Abschnitt Sanitärräume: Mindestens eine rollstuhlgerechte, geschlechtsneutrale WC-Einheit je Sanitäranlage. Bewegungsfläche (150×150 cm) vor WC, Waschtisch, Dusche und Badewanne; Überlagerung zulässig. WC-Seitliches Freisperrmaß: 90 cm Anfahrbreite (eine Seite), 30 cm Gegenbreite; alternativ zwei WC-Räume mit gegenläufiger Anfahrt. WC-Rückenstütze: 55 cm hinter Vorderkante WC (nicht Deckel). Waschtisch: Armatur ≤ 40 cm Abstand von Vorderkante; Einhebelarmatur oder berührungsloser Betrieb (Warmwasser max. 45 °C bei berührungslosem Betrieb); Spiegel ab 100 cm, direkt über Becken montiert. Dusche: niveaugleich (max. 2 cm Absenkung mit Schräge); Fußbodenbelag Rutschhemmgruppe B (DGUV 207-006) und R10 (DGUV 108-003); Klappsitz mit Rückenlehne und Armlehnen empfohlen. Notrufanlage: nach DIN VDE 0834-1; Rufknopf erreichbar vom WC sitzend; Zugschnur für liegende Person bis auf Bodenniveau; Reset-Taste; optische und akustische Signalisierung im Korridor. Türen: kein Einschlagen in Sanitärraum; von außen entriegelbar; visuelle Kontrastierung aller Ausstattungselemente.",
@@ -132,7 +209,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-023",
+    "id": "NRW-HOT-030",
     "category": "Accessibility",
     "requirement": "Treppen Gemeinschaftsbereich (DIN 18040-1): Gerade Läufe; beidseitige Handläufe ∅ 30–45 mm, Höhe 85–90 cm, Wandabstand 50 mm, Verlängerung ≥ 30 cm. Treppenkantenmarkierungen kontrastreich (LRV ≥ 50, Leuchtdichtekontrast ≥ 0,4) über volle Stufenbreite; Setzstufe min. 1 cm (empf. 2 cm), Trittstufe 4–5 cm. Taktile Aufmerksamkeitsfelder 60 cm tief am oberen und unteren Treppenende (60 cm vor der ersten Stufe). Keine offenen Setzstufen; Seitenkanten erhöht. Kurve zulässig bei Innendurchmesser ≥ 200 cm.",
     "detail": "DIN 18040-1:2010-10, Abschnitt Treppen: Mindestens 3 Stufen pro Treppenlauf. Gerade Läufe bevorzugt; gebogene Treppen nur mit Innendurchmesser ≥ 200 cm. Keine offenen Setzstufen; schräge Setzstufen bis 2 cm Unterschneidung zulässig. Seitliche Erhöhungen zum Schutz von Gehhilfen. Handlauf: beidseitig in öffentlichen Gebäuden; ∅ 30–45 mm rund/oval; Wandabstand 50 mm lichte Weite; Höhe 85–90 cm senkrecht über Stufenvorderkante; horizontal ≥ 30 cm über Treppenende hinausführend; abgerundete oder wandseitig eingedrehte Endung; kontinuierlich über Podeste und Öffnungen. Treppenkantenmarkierungen: Leuchtdichtekontrast K ≥ 0,4; LRV (Lichtrückstrahlwert) ≥ 50 für die hellere Fläche; Setzstufe min. 1 cm (empf. 2 cm), Trittstufe 4–5 cm; über volle Stufenbreite; eingelassene Ausführung bevorzugt (Verträglichkeit Treppenlift). Taktile Aufmerksamkeitsfelder: min. 60 cm Tiefe an jedem Treppeneinstieg und -austritt; Breite entspricht Treppenbreite; positioniert 60 cm vor der obersten/untersten Stufe. Rutschhemmung: min. R9; Reibungskoeffizient ≥ 0,3 innen, ≥ 0,45 außen. Kinderhandlauf in Einrichtungen mit Kindern: 60–80 cm Höhe. Rolltreppen: max. 0,5 m/s; Neigung ≤ 30° (57,7 %).",
@@ -143,7 +220,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-024",
+    "id": "NRW-HOT-031",
     "category": "Accessibility",
     "requirement": "Aufzüge Gemeinschaftsbereich (DIN 18040-1): Typ 2 (630 kg) als Mindestandforderung: Fahrkorbmaß 1100×1400 mm, Tür 900 mm. In Einrichtungen mit erhöhtem Platzbedarf (z. B. Pflegeheime mit mehreren Bewohnern gleichzeitig): Typ 3 (1275 kg): Fahrkorbmaß 2000×1400 mm, Tür 900 mm (Rollstuhlfahrer mit Wendefläche im Aufzug). Notrufsystem nach Zwei-Sinne-Prinzip (visuell + akustisch). Bedienelementachse 85–105 cm, seitlicher Abstand zur Türkante ≥ 50 cm.",
     "detail": "DIN 18040-1:2010-10, Abschnitt Aufzugsanlagen i.V.m. DIN EN 81-70: Typ 2 (630 kg): Fahrkorbmaß 1100×1400 mm, lichte Türbreite 900 mm; für Rollstuhlfahrer mit Begleitung und Elektrorollstühle Klasse A/B. Typ 3 (1275 kg): Fahrkorbmaß 2000×1400 mm, lichte Türbreite 900 mm; ermöglicht Rollstuhlwendung im Fahrkorbinneren; empfohlen für Pflegeeinrichtungen und öffentliche Gebäude mit hoher Nutzungsfrequenz. Typ 4: für Aufzüge mit Ecktüranordnung. Krankentrage: Fahrkorbfläche mindestens 1100×2100 mm. Bewegungsfläche vor Tür: 150×150 cm; bei Überlagerung mit Verkehrsfläche Mindestpassierbreite 90 cm. Abstand zu abwärtsführenden Treppen: ≥ 300 cm. Bedienelemente: Achsmaß 85 cm über OFF, Bereich 85–105 cm; bei mehreren Elementen übereinander: oberstes ≤ 105 cm, unterstes ≥ 85 cm; seitlicher Abstand Türkante ≥ 50 cm; nach DIN EN 81-70 Anhang G. Notruf: nach Zwei-Sinne-Prinzip (visuell/Video und akustisch); Rückmeldung für Gehörlose (visuelle Bestätigung) und Blinde (Sprachausgabe/akustisch).",
@@ -154,7 +231,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-025",
+    "id": "NRW-HOT-032",
     "category": "Accessibility",
     "requirement": "Wege, Plätze, Zugang (DIN 18040-1): Fußgängerwege müssen eben, stufenlos, griffig, fugenarm, rutschhemmend, taktil erkennbar und kontrastreich sein. Hauptwege mindestens 150 cm breit, Nebenwege mindestens 120 cm; Begegnungsflächen 180×180 cm alle 15 m. Längsgefälle max. 3 %, kurzzeitig bis 6 % mit Zwischenpodesten alle 10 m. Querneigung für Wasserableitung max. 2,5 %. Lichte Durchgangshöhe mindestens 230 cm.",
     "detail": "DIN 18040-1:2010-10, Abschnitt 5.1 (Wege, Plätze, Zugang): Oberflächenbeschaffenheit: 'Fußgängerwege müssen eben, stufenlos, griffig, fugenarm, rutschhemmend sein' sowie taktil erkennbar, farblich kontrastierend und blendfrei. Lichte Durchgangshöhe ≥ 230 cm. Breiten: Hauptwege ≥ 150 cm, Nebenwege ≥ 120 cm; Begegnungsflächen 180×180 cm alle 15 m für zwei Rollstuhlfahrer. Längsneigung: max. 3 %; bis 6 % mit Zwischenpodesten (max. 3 % Neigung) je 10 m zulässig; an Gebäudezugängen max. 3 % (bis 4 % auf Längen ≤ 10 m tolerierbar). Querneigung zur Wasserableitung: 2,5 %. Natürliches Steinpflaster: 3,0 % nach DIN 18318. Maßtoleranz Oberflächenebenheit: max. 0,4 %. PKW-Stellplatz: 350×500 cm, Kleinbus: 350×750 cm mit 250 cm Höhe. Übertragungsfläche zwischen Fahrzeug und Rollstuhl darf nicht durch hochgezogene Bürgersteigkanten überlappt werden.",
@@ -165,7 +242,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-026",
+    "id": "NRW-HOT-033",
     "category": "Accessibility",
     "requirement": "Bodenindikatoren in Gebäuden (DIN 32984): Taktile Leitsysteme (Rippenplatten) und Aufmerksamkeitsfelder (Noppenplatten) sind in Gebäudebereichen mit Orientierungsbedarf (Eingangsbereiche, Flure, Treppenanfänge) einzusetzen. Leuchtdichtekontrast K ≥ 0,4; Helligkeit der helleren Fläche ≥ 0,5. Rippenprofilhöhe 3–4 mm; Noppenprofilhöhe 3–4 mm. Bei Durchgängen unter 150 cm Breite: Leitsystem durch Aufmerksamkeitsfeld unterbrechen.",
     "detail": "DIN 32984:2011-05 (Bodenindikatoren im öffentlichen Raum) i.V.m. nullbarriere.de (Orientierung in Gebäuden): Rippenstruktur (Leitstreifen): Rippenhöhe 3–4 mm (±0,5 mm); Rippenbreite (Messebene) 5–10 mm; Rippenabstand (Messebene) 20–50 mm; Abstand Rippenkuppen 25–60 mm. Noppenstruktur (Aufmerksamkeitsfelder): Noppenhöhe 3–4 mm (±0,5 mm); Noppendurchmesser (Messebene) 15–30 mm; diagonaler Mittenabstand 32–60 mm; diagonaler Noppenabstand (Messebene) 17–36 mm; minimaler Abstand zweier sphärischer Noppen an der Basis: ≥ 12 mm. Kontrast: Leuchtdichtekontrast K ≥ 0,4 zwischen Bodenindikator und umliegendem Belag; Reflexionsgrad der helleren Fläche ≥ 0,5. Bei glattem/strukturarmem Bodenbelag: reduzierte Profilhöhe 2–3 mm möglich. Leitsysteme in ruhigen, klar strukturierten Foyers und Fluren: ggf. 3–4 Rippen ausreichend für Leitung. Unterbrechungsregel: 'Bei Durchgängen in einer Breite unter 150 cm ist das Leitsystem mit einem Aufmerksamkeitsfeld zu unterbrechen.'",
@@ -176,7 +253,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-027",
+    "id": "NRW-HOT-034",
     "category": "Accessibility",
     "requirement": "Handläufe (DIN EN 17210): Handlaufhöhe 85–90 cm, senkrecht über Stufenvorderkante bzw. Rampenfläche gemessen. Horizontale Verlängerung am Anfang und Ende von Treppen und Rampen mindestens 300 mm. Durchmesser 3–4,5 cm (rund oder oval); Wandabstand lichte Weite mindestens 5 cm. Beidseitig an Treppen und Rampen erforderlich; kontinuierlich ohne Unterbrechung. Oberfläche rutschhemmend, ohne scharfe Kanten; Endung einhakungsfrei (abgebogen). Bei Außenanlagen: Material mit geringer Wärmeleitfähigkeit.",
     "detail": "DIN EN 17210:2021 (Barrierefreiheit und Nutzbarkeit der gebauten Umgebung – Handläufe): Höhe: 85–90 cm, gemessen senkrecht von Oberkante Handlauf zu Stufenvorderkante (Treppen) bzw. Rampenfläche. Horizontale Verlängerung: mindestens 300 mm über erstes und letztes Treppenstufe bzw. Rampenanfang/-ende auf ebenem Boden. DIN 18040 spezifiziert diese Verlängerung gleichlautend mit '≥ 30 cm waagerecht'. Profilquerschnitt: ∅ 3–4,5 cm rund oder oval; auch abgerundet-rechteckige Profile als Option. Wandabstand: lichte Weite ≥ 5 cm zu Wand oder benachbarten Bauteilen. Aufstellung: beidseitig an Treppen und Rampen; auf breiten Treppen zusätzliche Mittelhandläufe empfohlen; kontinuierlich über Zwischenpodeste und Öffnungen (Fenster, Heizkörper). Materialanforderungen: rutschhemmende Oberfläche; keine scharfen Kanten; Endung des Handlaufs muss Einhaken von Kleidung verhindern (eingedreht oder nach unten gebogen); Außenmaterialien mit geringer Wärmeleitfähigkeit (kein nacktes Metall im Freien). Tragfähigkeit: vertikal und horizontal punktlastfähig; starre Befestigung erforderlich.",

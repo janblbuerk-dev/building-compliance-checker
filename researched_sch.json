@@ -1,83 +1,160 @@
 [
   {
-    "id": "NRW-SPO-001",
+    "id": "NRW-SCH-001",
     "category": "Planung & Baurecht",
-    "requirement": "Sportstätten bis zu einer bestimmten Größe als Anlagen für sportliche Zwecke in Wohngebieten zulässig; Sportstadien mit > 5 000 Besucherplätzen sind große Sonderbauten",
-    "detail": "§ 4 Abs. 2 Nr. 3 BauNVO: 'Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke' sind in allgemeinen Wohngebieten allgemein zulässig. Größere Sportkomplexe, die sich von Standardbaugebieten wesentlich unterscheiden, sind nach § 11 Abs. 1 BauNVO als sonstige Sondergebiete festzusetzen: 'Als sonstige Sondergebiete sind solche Gebiete darzustellen und festzusetzen, die sich von den Baugebieten nach den §§ 2 bis 10 wesentlich unterscheiden.' BauO NRW § 50 Abs. 2: 'Sportstadien und Freisportanlagen mit Tribünen, die keine Fliegenden Bauten sind, und die jeweils für insgesamt mehr als 5 000 Besucherinnen und Besucher bestimmt sind' gelten als große Sonderbauten; für sie gilt das vollständige Baugenehmigungsverfahren nach § 65 BauO NRW.",
-    "source_law": "§ 4 Abs. 2 Nr. 3 BauNVO; § 11 Abs. 1 BauNVO; § 50 Abs. 2 BauO NRW 2018",
+    "requirement": "Schulen sind als Anlagen für soziale und kulturelle Zwecke in allgemeinen Wohngebieten (WA), Dorf- (MD), Misch- (MI) und Kerngebieten (MK) allgemein zulässig.",
+    "detail": "§ 4 Abs. 2 Nr. 3 BauNVO: 'Anlagen für kirchliche, kulturelle, soziale, gesundheitliche und sportliche Zwecke.' Schulgebäude (Schulen, Gymnasien, Berufsschulen) fallen als Einrichtungen für soziale und kulturelle Zwecke unter diese Kategorie und sind damit im allgemeinen Wohngebiet allgemein zulässig (§ 4 Abs. 2 Nr. 3). Im Dorfgebiet (§ 5 Abs. 2 Nr. 7) sowie im Mischgebiet (§ 6 Abs. 2 Nr. 5) gilt gleiches. Damit ergibt sich eine breite planerische Zulässigkeit in den meisten Gebietstypen ohne Ausnahmevorbehalt.",
+    "source_law": "BauNVO § 4 Abs. 2 Nr. 3; § 5 Abs. 2 Nr. 7; § 6 Abs. 2 Nr. 5",
     "source_url": "https://www.gesetze-im-internet.de/baunvo/__4.html",
-    "last_verified": "2026-03-27",
+    "last_verified": "2026-03-26",
     "applies_to_funding": false,
     "verified": true
   },
   {
-    "id": "NRW-SPO-002",
+    "id": "NRW-SCH-002",
     "category": "Planung & Baurecht",
-    "requirement": "Lärmschutz bei Sportanlagen nach 18. BImSchV: Immissionsrichtwert in allgemeinen Wohngebieten 55 dB(A) tags (außerhalb Ruhezeiten), 40 dB(A) nachts",
-    "detail": "§ 2 der 18. BImSchV (Sportanlagen-Lärmschutzverordnung) legt gebietsbezogene Immissionsrichtwerte fest. Für allgemeine Wohngebiete und Kleinsiedlungsgebiete: außerhalb der Ruhezeiten 55 dB(A), innerhalb der Ruhezeiten werktags 50 dB(A), sonntags/feiertags 50 dB(A), nachts 40 dB(A). Für reine Wohngebiete: 50/45/35 dB(A). Für Kern-, Dorf- und Mischgebiete: 60/55/45 dB(A). Für Gewerbegebiete: 65/60/50 dB(A). Innerhalb von Gebäuden gelegene Immissionsrichtwerte: 35 dB(A) tags, 25 dB(A) nachts. Die Sportanlage darf diese Werte am Immissionsort nicht überschreiten; der Bebauungsplan hat Schutzabstände zu sichern.",
-    "source_law": "§ 2 18. BImSchV (Sportanlagen-Lärmschutzverordnung)",
-    "source_url": "https://www.gesetze-im-internet.de/bimschv_18/__2.html",
-    "last_verified": "2026-03-27",
+    "requirement": "Im unbeplanten Innenbereich (§ 34 BauGB) muss sich ein Schulneubau nach Art und Maß der baulichen Nutzung sowie der Bauweise in die Eigenart der näheren Umgebung einfügen.",
+    "detail": "§ 34 Abs. 1 BauGB: 'Innerhalb der im Zusammenhang bebauten Ortsteile ist ein Vorhaben zulässig, wenn es sich nach Art und Maß der baulichen Nutzung, der Bauweise und der Grundstücksfläche, die überbaut werden soll, in die Eigenart der näheren Umgebung einfügt und die Erschließung gesichert ist.' Für Schulen als Gemeinbedarfsanlagen bedeutet dies: Wenn die Umgebung überwiegend Wohncharakter hat und bereits Schulen oder ähnliche Einrichtungen vorhanden sind, fügt sich ein Schulgebäude in der Regel ein. Die Erschließung (Erschließungsstraße, Ver- und Entsorgung) muss gesichert sein.",
+    "source_law": "BauGB § 34 Abs. 1",
+    "source_url": "https://www.gesetze-im-internet.de/bbaug/__34.html",
+    "last_verified": "2026-03-26",
     "applies_to_funding": false,
     "verified": true
   },
   {
-    "id": "NRW-SPO-003",
-    "category": "Gebäudeausführung",
-    "requirement": "Sporthallen müssen nach DIN 18032-1 gebaut werden: Hallenmaße, Hallenhöhe (mind. 7,0 m in der Spielzone), Prallschutz und Sportböden",
-    "detail": "DIN 18032-1 (Sporthallen für Schul- und Vereinssport — Grundsätze für Planung und Bau) regelt Hallenabmessungen (Einfachhalle: 27×15 m oder 45×24 m Spielfeld), lichte Raumhöhe (mind. 7,0 m in der Spielzone), Prallschutz (mind. 2,0 m Höhe, stoßdämpfend) sowie Sportbodenklassen (DIN V 18032-2). Die Norm gilt über die VV TB NRW als technische Baubestimmung. Da DIN 18032-1 beim DIN-Verlag kostenpflichtig erhältlich ist, kann der Normtext hier nicht verbatim zitiert werden.",
-    "source_law": "DIN 18032-1 i. V. m. VV TB NRW",
-    "source_url": "https://www.beuth.de/",
-    "last_verified": "2026-03-27",
-    "applies_to_funding": true,
+    "id": "NRW-SCH-003",
+    "category": "Sonderbau",
+    "requirement": "Schulen mit mehr als 100 gleichzeitig anwesenden Personen oder mehr als einem Untergeschoss sind Sonderbauten nach BauO NRW § 2 Abs. 4 und unterliegen erweiterten bauordnungsrechtlichen Anforderungen.",
+    "detail": "§ 2 Abs. 4 BauO NRW 2018 definiert Sonderbauten als Anlagen und Räume besonderer Art oder Nutzung. Schulgebäude fallen regelmäßig unter Nr. 8 (Schulen, Hochschulen und ähnliche Einrichtungen) und/oder Nr. 1 (Gebäude mit mehr als 1 600 m² Grundfläche je Geschoss) sowie Nr. 2 (Hochhäuser) je nach Größe. Gemäß § 50 BauO NRW können für Sonderbauten besondere Anforderungen gestellt oder Erleichterungen gewährt werden, soweit es für die Sicherheit und Ordnung erforderlich ist. In der Praxis ergibt sich für Schulen in NRW die Pflicht zur Erstellung eines Brandschutzkonzepts sowie zur Abstimmung mit der Bauaufsichtsbehörde im Genehmigungsverfahren.",
+    "source_law": "BauO NRW § 2 Abs. 4 Nr. 8; § 50",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SCH-004",
+    "category": "Brandschutz",
+    "requirement": "Schulgebäude müssen so errichtet werden, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch vorgebeugt wird und die Rettung von Menschen möglich ist.",
+    "detail": "§ 14 BauO NRW: 'Anlagen sind so anzuordnen, zu errichten, zu ändern und instand zu halten, dass der Entstehung eines Brandes und der Ausbreitung von Feuer und Rauch (Brandausbreitung) vorgebeugt wird und bei einem Brand die Rettung von Menschen und Tieren sowie wirksame Löscharbeiten möglich sind.' Als Sonderbauten mit besonderem Gefährdungspotenzial (viele Personen, teilweise minderjährige Nutzer) sind an Schulen erhöhte Anforderungen an Brandschutzkonzepte zu stellen. Das Brandschutzkonzept muss im Baugenehmigungsverfahren als Teil der Bauvorlagen eingereicht werden (§ 69 BauO NRW).",
+    "source_law": "BauO NRW § 14",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SCH-005",
+    "category": "Brandschutz",
+    "requirement": "In jedem Geschoss mit Aufenthaltsräumen einer Schule müssen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein.",
+    "detail": "§ 33 Abs. 1 BauO NRW: 'Für Nutzungseinheiten wie Wohnungen, Praxen, selbstständige Betriebsstätten müssen in jedem Geschoss mit Aufenthaltsräumen mindestens zwei voneinander unabhängige Rettungswege ins Freie vorhanden sein.' Für Schulen als Sonderbauten gilt dies verschärft: Der erste Rettungsweg führt über notwendige Treppen (§ 35 BauO NRW), der zweite Rettungsweg muss ebenfalls über eine bauliche Anlage (Außentreppe, zweite Treppenhaus) sichergestellt werden, da bei Schulen die Personenzahl eine Rettung über Leitern der Feuerwehr in der Regel ausschließt. Notwendige Flure als Rettungswege müssen rauchdicht abgetrennt sein (§ 36 BauO NRW).",
+    "source_law": "BauO NRW § 33 Abs. 1; § 35; § 36",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SCH-006",
+    "category": "Brandschutz",
+    "requirement": "Notwendige Flure in Schulgebäuden als Rettungswege dürfen nicht länger als 30 m sein; Rauchabschnitte sind durch rauchdichte, selbstschließende Türen zu bilden.",
+    "detail": "§ 36 BauO NRW regelt notwendige Flure und offene Gänge: Flure, die als Rettungsweg dienen, dürfen Rauchabschnitte von maximal 30 m Länge bilden. Rauchabschnittstrennungen müssen rauchdicht und selbstschließend ausgeführt sein. Einzel-Flurabschnitte ohne Querverbindung (Stichflure) sind in Schulgebäuden auf maximal 15 m zu begrenzen. Wände notwendiger Flure müssen die Anforderungen an raumabschließende Bauteile erfüllen. In Schulen mit Sonderbaustatus ist häufig auch eine automatische Brandmeldeanlage (BMA) mit Aufschaltung auf die Feuerwehr vorzusehen.",
+    "source_law": "BauO NRW § 36",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SCH-007",
+    "category": "Brandschutz",
+    "requirement": "Brandwände als Gebäudeabschlusswände und zur Unterteilung in Brandabschnitte müssen aus nicht brennbaren Baustoffen bestehen und im Brandfall standsicher bleiben.",
+    "detail": "§ 30 BauO NRW zu Brandwänden: Brandwände müssen als raumabschließende Bauteile ausgeführt werden, die eine Brandausbreitung auf angrenzende Gebäude oder Brandabschnitte verhindern. Abs. 3: Die Brandwände müssen aus nichtbrennbaren Baustoffen bestehen und im Brandfall standsicher bleiben. Für Schulgebäude sind Brandabschnitte so zu dimensionieren, dass im Brandfall eine geordnete Evakuierung der betroffenen Abschnitte möglich ist. Die Muster-Richtlinie über bauaufsichtliche Anforderungen an Schulen (Fassung 2025 der ARGEBAU) konkretisiert die Anforderungen an Brandabschnittsgröße und Brandwandanordnung für Schulgebäude.",
+    "source_law": "BauO NRW § 30",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SCH-008",
+    "category": "Barrierefreiheit",
+    "requirement": "Schulgebäude als öffentlich zugängliche bauliche Anlagen müssen barrierefrei zugänglich und nutzbar sein; Unterrichtsräume und Sanitäranlagen müssen vollständig barrierefrei ausgebaut werden.",
+    "detail": "§ 49 Abs. 1 BauO NRW: 'Barrierefrei sind bauliche Anlagen, soweit sie für alle Menschen, insbesondere für Menschen mit Behinderungen, in der allgemein üblichen Weise, ohne besondere Erschwernis und grundsätzlich ohne fremde Hilfe auffindbar, zugänglich und nutzbar sind.' Schulen als öffentliche Bildungseinrichtungen sind nach § 49 Abs. 2 BauO NRW in ihren dem allgemeinen Besucher- und Nutzerverkehr dienenden Teilen barrierefrei herzustellen. Dazu gehören: barrierefreier Haupteingang, alle Unterrichtsräume (vertikale Erschließung per Aufzug ab mehr als einem Geschoss), mindestens ein barrierefreies WC je Geschoss. Technische Anforderungen konkretisiert DIN 18040-1 (öffentlich zugängliche Gebäude).",
+    "source_law": "BauO NRW § 49 Abs. 1–2",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SCH-009",
+    "category": "Barrierefreiheit",
+    "requirement": "Barrierefreie Gestaltung von Schulgebäuden nach DIN 18040-1: Mindestbreiten für Flure, barrierefreie Sanitärräume, taktile Leitsysteme und kontrastreiche Gestaltung sind verpflichtend.",
+    "detail": "DIN 18040-1 (Barrierefreies Bauen — Planungsgrundlagen — Teil 1: Öffentlich zugängliche Gebäude) konkretisiert die Anforderungen des § 49 BauO NRW für Schulgebäude. Wesentliche Anforderungen: Türbreite mindestens 0,90 m (lichte Breite), Flurbreite mindestens 1,50 m, rollstuhlgerechte Wendeplätze 1,50 × 1,50 m, barrierefreie WC-Anlage mit seitlichem Unterfahrraum (mind. 0,90 m), Aufzüge bei mehrgeschossiger Nutzung mit Abmessungen min. 1,10 × 1,40 m Kabinengrundfläche. Taktile Bodenindikatoren an Treppen und Gefahrenstellen. Die Norm ist als allgemein anerkannte Regel der Technik im Sinne der BauO NRW einzuhalten. Hinweis: DIN-Normen sind hinter einer Bezahlschranke; Anforderungen gelten über Verweis in BauO NRW.",
+    "source_law": "DIN 18040-1; BauO NRW § 49",
+    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
     "verified": false
   },
   {
-    "id": "NRW-SPO-004",
-    "category": "Barrierefreiheit",
-    "requirement": "Sportstätten müssen als öffentlich zugängliche Anlagen vollständig barrierefrei nach BauO NRW § 49 Abs. 2 sein",
-    "detail": "§ 49 Abs. 2 Satz 1 BauO NRW 2018: 'Bauliche Anlagen, die öffentlich zugänglich sind, müssen barrierefrei sein. Öffentlich zugänglich sind bauliche Anlagen, wenn und soweit sie nach ihrem Zweck im Zeitraum ihrer Nutzung von im Vorhinein nicht bestimmbaren Personen aufgesucht werden können.' Sportstätten fallen unter diese Pflicht. Weiterhin gilt nach § 49 Abs. 2: 'Toilettenräume und notwendige Stellplätze für Besucherinnen und Besucher sowie für Benutzerinnen und Benutzer müssen in der erforderlichen Anzahl barrierefrei sein.' Technische Details zu Rollstuhlzuschauerplätzen (mind. 1 % der Gesamtplätze), Türbreiten und Rampen regelt DIN 18040-1 (VV TB NRW).",
-    "source_law": "§ 49 Abs. 2 BauO NRW 2018",
-    "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
-    "last_verified": "2026-03-27",
-    "applies_to_funding": true,
-    "verified": true
-  },
-  {
-    "id": "NRW-SPO-005",
-    "category": "Brandschutz",
-    "requirement": "Sporthallen mit Versammlungsräumen für mehr als 200 Besucher unterliegen SBauVO NRW Teil 1 (Versammlungsstätten); Sportstadien mit > 5 000 Besuchern zusätzlich als Sonderbau",
-    "detail": "SBauVO NRW § 1 Abs. 1: 'Die Vorschriften des Ersten Teils gelten für den Bau und Betrieb von Versammlungsstätten mit Versammlungsräumen, die einzeln für mehr als 200 Besucherinnen und Besucher bestimmt sind.' Für Sportstadien und Freisportanlagen mit Tribünen: die SBauVO gilt nach § 1 Abs. 1 Nr. 3 für solche Anlagen, die keine Fliegenden Bauten sind und insgesamt für mehr als 5 000 Besucherinnen und Besucher bestimmt sind. Die SBauVO schreibt vor: Sicherheitsbeleuchtung (DIN EN 1838), Brandmeldeanlagen, Rauchabzugsanlagen bei Saalfläche > 200 m², Mindestbreite der Ausgänge (1,20 m je 200 Personen) und Betriebsplan nach § 43 SBauVO.",
-    "source_law": "§ 1 Abs. 1 SBauVO NRW; § 50 Abs. 2 BauO NRW 2018",
-    "source_url": "https://recht.nrw.de/lmi/owa/br_bes_detail?print=1&anw_nr=2&gld_nr=+0&ugl_nr=0&val=35784&ver=0&aufgehoben=N&keyword=&bes_id=35784&det_id=549665",
-    "last_verified": "2026-03-27",
-    "applies_to_funding": false,
-    "verified": true
-  },
-  {
-    "id": "NRW-SPO-006",
+    "id": "NRW-SCH-010",
     "category": "Energie",
-    "requirement": "Sporthallen als Nichtwohngebäude: GEG § 18 — Jahres-Primärenergiebedarf ≤ 0,55faches des Referenzgebäudes; Erneuerbare-Energien-Pflicht für Heizung nach § 71",
-    "detail": "§ 18 Abs. 1 GEG: 'Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55fache des auf die Nettogrundfläche bezogenen Wertes des Jahres-Primärenergiebedarfs eines Referenzgebäudes...' nicht überschreitet. Zusätzlich gilt § 71 Abs. 1 GEG für neue Heizungsanlagen: 'Eine Heizungsanlage darf zum Zweck der Inbetriebnahme in einem Gebäude nur eingebaut oder aufgestellt werden, wenn sie mindestens 65 Prozent der mit der Anlage bereitgestellten Wärme mit erneuerbaren Energien oder unvermeidbarer Abwärme...erzeugt.' Bei Schwimmbädern ist DIN V 18599-10 anzuwenden.",
-    "source_law": "§ 18 Abs. 1 GEG; § 71 Abs. 1 GEG",
+    "requirement": "Schulgebäude als Nichtwohngebäude dürfen beim Jahres-Primärenergiebedarf für Heizung, Warmwasser, Lüftung, Kühlung und Beleuchtung höchstens den 0,55-fachen Wert des Referenzgebäudes überschreiten.",
+    "detail": "§ 18 Abs. 1 GEG: 'Ein zu errichtendes Nichtwohngebäude ist so zu errichten, dass der Jahres-Primärenergiebedarf für Heizung, Warmwasserbereitung, Lüftung, Kühlung und eingebaute Beleuchtung das 0,55fache des auf die Nettogrundfläche bezogenen Wertes des Jahres-Primärenergiebedarfs eines Referenzgebäudes, das die gleiche Geometrie, Nettogrundfläche, Ausrichtung und Nutzung, einschließlich der Anordnung der Nutzungseinheiten, wie das zu errichtende Gebäude aufweist und der technischen Referenzausführung der Anlage 2 entspricht, nicht überschreitet.' Der Höchstwert ist gemäß § 18 Abs. 2 GEG nach den §§ 21–27, 30 und 32–33 GEG zu berechnen. Schulgebäude gelten als Nichtwohngebäude im Sinne des GEG.",
+    "source_law": "GEG § 18 Abs. 1–2",
     "source_url": "https://www.gesetze-im-internet.de/geg/__18.html",
-    "last_verified": "2026-03-27",
+    "last_verified": "2026-03-26",
     "applies_to_funding": false,
     "verified": true
   },
   {
-    "id": "NRW-SPO-007",
-    "category": "Planung & Baurecht",
-    "requirement": "Stellplatzpflicht nach BauO NRW § 48; bei Nichtwohngebäuden mit > 35 Stellplätzen zusätzliche Solaranlage auf dem Stellplatz",
-    "detail": "§ 48 Abs. 1 BauO NRW 2018: Bei Errichtung von Anlagen mit Zu- und Abfahrtsverkehr 'müssen die notwendigen Stellplätze, Garagen und Fahrradabstellplätze auf dem Baugrundstück oder in zumutbarer Entfernung auf einem geeigneten Grundstück mit öffentlich-rechtlicher Sicherung hergestellt werden oder durch Zahlung eines Geldbetrags an die Gemeinde nach Maßgabe der örtlichen Bauvorschriften abgelöst werden.' § 48 Abs. 1a: Für Stellplatzanlagen mit mehr als 35 Stellplätzen bei Nichtwohngebäuden sind auf dem Stellplatz Anlagen zur Solarstromerzeugung zu errichten. Konkrete Richtwerte (z. B. 1 Stellplatz je 10 Zuschauerplätze) legt die gemeindliche Stellplatzsatzung fest.",
-    "source_law": "§ 48 Abs. 1 und 1a BauO NRW 2018",
+    "id": "NRW-SCH-011",
+    "category": "Raumluft & Hygiene",
+    "requirement": "Unterrichtsräume in Schulen müssen ausreichend natürlich oder mechanisch gelüftet werden; der CO₂-Gehalt soll 1 500 ppm nicht überschreiten (Lüftungskonzept nach Schulbaurichtlinie NRW erforderlich).",
+    "detail": "Die Schulbaurichtlinie NRW (Muster-Richtlinie über bauaufsichtliche Anforderungen an Schulen, ARGEBAU) fordert für Unterrichtsräume ein nachgewiesenes Lüftungskonzept. Unterrichtsräume bis 50 m² erfordern mindestens Querlüftung durch gegenüberliegende Öffnungen. Bei mechanischer Lüftung gilt DIN EN 15251 / DIN EN 16798-1 als Bemessungsgrundlage mit einem Außenluftvolumenstrom von mindestens 30 m³/(h·Person) in Unterrichtsräumen. Der CO₂-Richtwert von 1 500 ppm (Kategorie III nach UBA-Empfehlung) darf im Dauerbetrieb nicht überschritten werden. Ergänzend findet die Arbeitsstättenregel ASR A3.6 (Lüftung) sinngemäß Anwendung. Hinweis: Schulbaurichtlinie NRW Fassung 2025 ist noch nicht allgemein im Internet abrufbar — Anforderungen basieren auf bekanntem Regelwerksstand.",
+    "source_law": "Schulbaurichtlinie NRW (ARGEBAU-Muster); ASR A3.6; DIN EN 16798-1",
+    "source_url": "https://www.bauministerkonferenz.de/verzeichnis.aspx?id=991&o=759O986O991",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": false
+  },
+  {
+    "id": "NRW-SCH-012",
+    "category": "Schallschutz",
+    "requirement": "Unterrichtsräume müssen eine ausreichende Raumakustik aufweisen; Nachhallzeit und Störschallpegel sind nach DIN 18041 zu begrenzen, um Unterrichtsverständlichkeit sicherzustellen.",
+    "detail": "DIN 18041:2016-03 (Hörsamkeit in Räumen) legt für Unterrichtsräume (Nutzungsgruppe A, z. B. Klassenräume) Sollwerte für die Nachhallzeit T fest: Bei einem Raumvolumen von 200 m³ beträgt die Soll-Nachhallzeit T_soll = 0,5 s (mit zulässiger Toleranz ±20 %). Die Norm unterscheidet zwischen inklusiv genutzten Räumen (strengere Anforderungen: T um 20 % kürzer) und Standard-Unterrichtsräumen. Zum Außen- und Körperschallschutz gilt DIN 4109 (Schallschutz im Hochbau): Schulgebäude sind als schutzbedürftige Nutzungen einzustufen; Außenlärmpegel > 55 dB(A) tags erfordern erhöhten Schallschutz der Außenbauteile. Hinweis: DIN 18041 und DIN 4109 sind kostenpflichtige Normen.",
+    "source_law": "DIN 18041:2016-03; DIN 4109",
+    "source_url": "https://www.beuth.de/de/norm/din-18041/253229157",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": false
+  },
+  {
+    "id": "NRW-SCH-013",
+    "category": "Erschließung",
+    "requirement": "Schulgebäude benötigen eine gesicherte Erschließung; Schulträger sind verpflichtet, Schulanlage und Schulgebäude bereitzustellen und in einem dem Schulbetrieb entsprechenden Zustand zu unterhalten.",
+    "detail": "§ 79 Abs. 1 SchulG NRW: 'Der Schulträger ist verpflichtet, die Schulanlage und die Schulgebäude bereitzustellen und zu unterhalten.' Die Erschließung umfasst die verkehrliche Anbindung (Schulweg, ÖPNV-Haltestelle), ausreichend Fahrradstellplätze (in NRW mind. 1 Platz je 2 Schüler als Orientierungswert der Schulbaurichtlinie), Pkw-Kurzzeithalten (Elterntaxi-Zone/Kiss-and-Ride), sowie die technische Infrastruktur (Strom, Wasser, Abwasser, Telekommunikation). Die Erschließung muss gemäß § 34 Abs. 1 BauGB „gesichert“ sein, d. h. rechtlich und tatsächlich dauerhaft nutzbar.",
+    "source_law": "SchulG NRW § 79 Abs. 1; BauGB § 34 Abs. 1",
+    "source_url": "https://bass.schule.nrw/6043.htm",
+    "last_verified": "2026-03-26",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-SCH-014",
+    "category": "Erschließung",
+    "requirement": "Fahrradabstellanlagen an Schulen müssen in ausreichender Anzahl, überdacht und diebstahlsicher ausgeführt werden; Anforderungen ergeben sich aus der Stellplatzsatzung der Gemeinde und der Schulbaurichtlinie NRW.",
+    "detail": "Die gemeindlichen Stellplatzsatzungen in NRW (auf Basis § 48 BauO NRW — Garagen und Stellplätze) schreiben für Schulgebäude Fahrradstellplätze vor, deren Anzahl sich nach Schüler- und Lehrerzahl richtet. Übliche Richtwerte: 1 Fahrradstellplatz je 2 Schüler der Klassen 5–13 bzw. vergleichbarer Schulformen. Stellplätze sind überdacht, beleuchtet und mit Anlehnbügeln auszustatten (Anforderung aus Schulbaurichtlinie NRW und ADFC-Empfehlungen als anerkannter Stand der Technik). Zusätzlich sind Pkw-Kurzhaltezonen (Kiss-and-Ride) zur Entlastung des Schulumfeldes planerisch vorzusehen. Hinweis: Genaue Richtwerte variieren je Gemeinde.",
+    "source_law": "BauO NRW § 48; Stellplatzsatzung der Gemeinde",
     "source_url": "https://recht.nrw.de/lrgv/gesetz/01012024-bauordnung-fuer-das-land-nordrhein-westfalen-landesbauordnung-2018-bauo-nrw/",
-    "last_verified": "2026-03-27",
+    "last_verified": "2026-03-26",
     "applies_to_funding": false,
-    "verified": true
+    "verified": false
   },
   {
-    "id": "NRW-SPO-018",
+    "id": "NRW-SCH-025",
     "category": "Accessibility",
     "requirement": "DIN 18040-1 Gemeinschaftsbereiche: Das gesamte Gebäude unterliegt DIN 18040-1 (öffentlich zugängliche Gebäude). Die Kernanforderungen entsprechen DIN 18040-2: Verkehrsflächen ≥ 120 cm; Bewegungsflächen 150×150 cm (Rollstuhl) / 180×180 cm (Begegnung alle 15 m); lichte Türbreite ≥ 90 cm; Türgriffhöhe 85–105 cm; Türbedienkraft max. 25 N; Rampengefälle max. 6 %; Aufzug Typ 2 (1100×1400 mm, Tür 900 mm).",
     "detail": "DIN 18040-1:2010-10 (Barrierefreies Bauen – Planungsgrundlagen – Teil 1: Öffentlich zugängliche Gebäude): Für das gesamte Gebäude gelten die Anforderungen der DIN 18040-1 ohne R-Differenzierung. Verkehrsflächen ohne Richtungswechsel: ≥ 120 cm. Rollstuhlwendefläche: 150×150 cm. Begegnung zweier Rollstuhlfahrer: 180×180 cm alle 15 m. Lichte Türbreite: ≥ 90 cm, Höhe ≥ 205 cm. Griffachsmaß: 85–105 cm. Türkraft: max. 25 N (DIN EN 12217 Klasse 3). Glastür-Kontraststreifen: 40–70 cm und 120–160 cm (8 cm breit). Schwellenhöhe max. 1 cm. Rampengefälle max. 6 % ohne Querneigung; Zwischenpodeste 150×150 cm alle 600 cm. Aufzug Typ 2 (630 kg): 1100×1400 mm, Tür 900 mm; Bewegungsfläche davor 150×150 cm, Abstand zu abwärtsführenden Treppen ≥ 300 cm. Einbauten (Mauervorsprünge, Rohrleitungen, Feuerlöscher, Handläufe) dürfen Bewegungsflächen nicht einschränken. Lichte Mindestdurchgangshöhe unter Hindernissen: ≥ 220 cm.",
@@ -88,7 +165,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-019",
+    "id": "NRW-SCH-026",
     "category": "Accessibility",
     "requirement": "Bewegungsflächen und Verkehrsflächen (DIN 18040-1): Flure und Verkehrsflächen ohne Richtungswechsel mindestens 120 cm breit. An Richtungswechseln, vor Aufzügen, an Rampenanfängen und -enden sowie in Schlafräumen, Küchen, Bädern und auf Terrassen: Bewegungsfläche 150×150 cm (R-Standard). Begegnungsflächen von mindestens 180×180 cm alle 15 m. Einbauten wie Mauervorsprünge, Rohrleitungen, Handläufe oder Briefkästen dürfen Bewegungsflächen nicht einschränken.",
     "detail": "DIN 18040-1:2010-10, Abschnitt 4 (Flächen, Platzbedarf): Mindestbreite Verkehrsflächen ohne Richtungswechsel ≥ 120 cm. Rollstuhlwendefläche: 150×150 cm; für Begegnung zweier Rollstuhlfahrer: 180×180 cm (alle 15 m auf Fluren). Türdurchgangsbreiten für Rollstuhlfahrer mindestens 90 cm lichte Breite, innerhalb von Wohnungen ohne Rollstuhlnutzung mindestens 80 cm. Lichte Durchgangshöhe: ≥ 205 cm über OFF. Unterfahrbare Bereiche (z. B. unter Treppen): ≥ 220 cm Kopffreiheit. Schlafzimmer : Bewegungsfläche 150×150 cm an einer Längsseite des Bettes, 120×90 cm an der Gegenseite. 'Diese knapp bemessenen Bewegungsflächen dürfen nicht eingeschränkt werden, z. B. durch Mauervorsprünge, Rohrleitungen, Feuerlöscher, Handläufe, Briefkästen.' Behindertenparkplatz: mindestens 350×500 cm mit 220 cm Deckenhöhe; Rollstuhlstellplatz: 180×150 cm plus gleichwertige Zufahrtsfläche.",
@@ -99,7 +176,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-020",
+    "id": "NRW-SCH-027",
     "category": "Accessibility",
     "requirement": "Türen und Fenster (DIN 18040-1): Lichte Türbreite mindestens 90 cm; lichte Türhöhe mindestens 205 cm. Griffhöhe (Achsmaß) 85–105 cm über OFF; Eingangstüren möglichst automatisch oder mit Türöffner. Bedienelemente mit maximaler Schließkraft 25 N (Klasse 3 nach DIN EN 12217). Glastüren mit Kontrastmarkierungen in zwei Höhenbändern (40–70 cm und 120–160 cm). Fenster: mindestens ein Fenster je Raum muss leicht zu öffnen sein, Griffhöhe 85–105 cm. Keine absenkbaren Türanschläge.",
     "detail": "DIN 18040-1:2010-10, Abschnitt 5.3 (Türen, Fenster): Lichte Durchgangsbreite ≥ 90 cm (R-Standard), lichte Durchgangshöhe ≥ 205 cm über OFF (Oberkante Fertigfußboden). Griffachsmaß: grundsätzlich 85 cm, zulässiger Bereich 85–105 cm über OFF. Seitlicher Abstand von Bedienelementen zur Hauptschließkante: ≥ 50 cm; frontaler Anfahrweg (Öffnungsrichtung) ≥ 250 cm, (Schließrichtung) ≥ 150 cm; bei Schiebetüren frontal je Seite ≥ 150 cm. Türkräfte: maximale Schließkraft 25 N, maximales Handmoment 2,5 Nm, maximale Fingerkraft 6 N (alle nach DIN EN 12217, Klasse 3). Rauch- und Brandschutztüren: maximal Größe 3 nach DIN EN 1154; bei Überschreitung automatische Feststellanlage erforderlich. Schwellenhöhe wenn unvermeidbar: maximal 2 cm abgeschrägt oder gerundet. Türspion (für Rollstuhlfahrer): 120 cm über OFF. Fenstergriffhöhe (R-Standard) 85–105 cm; alternativ Fensteröffner zulässig.",
@@ -110,7 +187,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-021",
+    "id": "NRW-SCH-028",
     "category": "Accessibility",
     "requirement": "Brandschutz und Evakuierung (DIN 18040-1): Für jeden Rollstuhlfahrer ist ein gesicherter Wartebereich von mindestens 130×90 cm in Rettungswegnähe (notwendiger Treppenraum oder angrenzender Raum) vorzusehen. Alarmanlage nach Zwei-Sinne-Prinzip: optische Blitzleuchten in allen Räumen und Fluren; akustische Sprachdurchsagen auf Rettungswegen; taktile Orientierungssysteme für Blinde. Rettungsweg-Beschilderung bodennahe Markierung und Hochkontrast. Barrierefreie Notrufanlage im Wartebereich erforderlich.",
     "detail": "DIN 18040-1:2010-10, Abschnitt Brandschutz: Gesicherte Wartebereiche ('sichere Orte') für Rollstuhlfahrer: je Rollstuhlfahrer mindestens 130×90 cm Stellfläche, nicht überlappend mit Verkehrsflächen; im notwendigen Treppenraum oder einem unmittelbar angrenzenden Raum; Größe nach Brandschutzkonzept/Evakuierungsplanung zu bemessen. Barrierefreier Notruf: in geschlossenen Wartebereichen zwingend erforderlich. Alarmierung nach Zwei-Sinne-Prinzip: (1) Optisch: Blitzleuchten in Räumen und Fluren für Gehörlose; (2) Akustisch: Sprachdurchsagen mit ausreichender Deutlichkeit; (3) Taktil: taktile Leitsysteme für Blinde und Sehbehinderte. Rettungswegkennzeichnung: Hochkontrast; bodennahe Markierungen; dynamische Evakuierungsanzeigen mit akustischen Komponenten. Sicherheitsbeleuchtung nach DIN EN 1838. Rauchmelder mit akustischem und optischem Signal. Evakuierungshilfen für Mobilitätseingeschränkte (z. B. Evakuierungsstuhl) einzuplanen.",
@@ -121,7 +198,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-022",
+    "id": "NRW-SCH-029",
     "category": "Accessibility",
     "requirement": "Sanitärräume Gemeinschaftsbereich (DIN 18040-1): Je Sanitäranlage mindestens eine rollstuhlgerechte geschlechtsneutrale Toilette. Bewegungsflächen 150×150 cm vor allen Sanitärobjekten (Überlagerung zulässig). WC-Sitzhöhe 46–48 cm inkl. Brille; Stützklappgriffe beidseitig (Oberkante 28 cm über Sitz, Abstand 65–70 cm, Traglast 1 kN). Waschtisch unterfahrbar: max. 80 cm Höhe, ≥ 55 cm Kniefreiheit-Tiefe, ≥ 90 cm Breite, Armatur max. 40 cm von Vorderkante. Dusche niveaugleich, Rutschhemmklasse B (DGUV)/R10. Notrufanlage nach DIN VDE 0834-1 mit Zugknopf auf Bodenniveau. Keine in den Sanitärraum aufschlagende Drehflügeltüren.",
     "detail": "DIN 18040-1:2010-10, Abschnitt Sanitärräume: Mindestens eine rollstuhlgerechte, geschlechtsneutrale WC-Einheit je Sanitäranlage. Bewegungsfläche (150×150 cm) vor WC, Waschtisch, Dusche und Badewanne; Überlagerung zulässig. WC-Seitliches Freisperrmaß: 90 cm Anfahrbreite (eine Seite), 30 cm Gegenbreite; alternativ zwei WC-Räume mit gegenläufiger Anfahrt. WC-Rückenstütze: 55 cm hinter Vorderkante WC (nicht Deckel). Waschtisch: Armatur ≤ 40 cm Abstand von Vorderkante; Einhebelarmatur oder berührungsloser Betrieb (Warmwasser max. 45 °C bei berührungslosem Betrieb); Spiegel ab 100 cm, direkt über Becken montiert. Dusche: niveaugleich (max. 2 cm Absenkung mit Schräge); Fußbodenbelag Rutschhemmgruppe B (DGUV 207-006) und R10 (DGUV 108-003); Klappsitz mit Rückenlehne und Armlehnen empfohlen. Notrufanlage: nach DIN VDE 0834-1; Rufknopf erreichbar vom WC sitzend; Zugschnur für liegende Person bis auf Bodenniveau; Reset-Taste; optische und akustische Signalisierung im Korridor. Türen: kein Einschlagen in Sanitärraum; von außen entriegelbar; visuelle Kontrastierung aller Ausstattungselemente.",
@@ -132,7 +209,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-023",
+    "id": "NRW-SCH-030",
     "category": "Accessibility",
     "requirement": "Treppen Gemeinschaftsbereich (DIN 18040-1): Gerade Läufe; beidseitige Handläufe ∅ 30–45 mm, Höhe 85–90 cm, Wandabstand 50 mm, Verlängerung ≥ 30 cm. Treppenkantenmarkierungen kontrastreich (LRV ≥ 50, Leuchtdichtekontrast ≥ 0,4) über volle Stufenbreite; Setzstufe min. 1 cm (empf. 2 cm), Trittstufe 4–5 cm. Taktile Aufmerksamkeitsfelder 60 cm tief am oberen und unteren Treppenende (60 cm vor der ersten Stufe). Keine offenen Setzstufen; Seitenkanten erhöht. Kurve zulässig bei Innendurchmesser ≥ 200 cm.",
     "detail": "DIN 18040-1:2010-10, Abschnitt Treppen: Mindestens 3 Stufen pro Treppenlauf. Gerade Läufe bevorzugt; gebogene Treppen nur mit Innendurchmesser ≥ 200 cm. Keine offenen Setzstufen; schräge Setzstufen bis 2 cm Unterschneidung zulässig. Seitliche Erhöhungen zum Schutz von Gehhilfen. Handlauf: beidseitig in öffentlichen Gebäuden; ∅ 30–45 mm rund/oval; Wandabstand 50 mm lichte Weite; Höhe 85–90 cm senkrecht über Stufenvorderkante; horizontal ≥ 30 cm über Treppenende hinausführend; abgerundete oder wandseitig eingedrehte Endung; kontinuierlich über Podeste und Öffnungen. Treppenkantenmarkierungen: Leuchtdichtekontrast K ≥ 0,4; LRV (Lichtrückstrahlwert) ≥ 50 für die hellere Fläche; Setzstufe min. 1 cm (empf. 2 cm), Trittstufe 4–5 cm; über volle Stufenbreite; eingelassene Ausführung bevorzugt (Verträglichkeit Treppenlift). Taktile Aufmerksamkeitsfelder: min. 60 cm Tiefe an jedem Treppeneinstieg und -austritt; Breite entspricht Treppenbreite; positioniert 60 cm vor der obersten/untersten Stufe. Rutschhemmung: min. R9; Reibungskoeffizient ≥ 0,3 innen, ≥ 0,45 außen. Kinderhandlauf in Einrichtungen mit Kindern: 60–80 cm Höhe. Rolltreppen: max. 0,5 m/s; Neigung ≤ 30° (57,7 %).",
@@ -143,7 +220,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-024",
+    "id": "NRW-SCH-031",
     "category": "Accessibility",
     "requirement": "Aufzüge Gemeinschaftsbereich (DIN 18040-1): Typ 2 (630 kg) als Mindestandforderung: Fahrkorbmaß 1100×1400 mm, Tür 900 mm. In Einrichtungen mit erhöhtem Platzbedarf (z. B. Pflegeheime mit mehreren Bewohnern gleichzeitig): Typ 3 (1275 kg): Fahrkorbmaß 2000×1400 mm, Tür 900 mm (Rollstuhlfahrer mit Wendefläche im Aufzug). Notrufsystem nach Zwei-Sinne-Prinzip (visuell + akustisch). Bedienelementachse 85–105 cm, seitlicher Abstand zur Türkante ≥ 50 cm.",
     "detail": "DIN 18040-1:2010-10, Abschnitt Aufzugsanlagen i.V.m. DIN EN 81-70: Typ 2 (630 kg): Fahrkorbmaß 1100×1400 mm, lichte Türbreite 900 mm; für Rollstuhlfahrer mit Begleitung und Elektrorollstühle Klasse A/B. Typ 3 (1275 kg): Fahrkorbmaß 2000×1400 mm, lichte Türbreite 900 mm; ermöglicht Rollstuhlwendung im Fahrkorbinneren; empfohlen für Pflegeeinrichtungen und öffentliche Gebäude mit hoher Nutzungsfrequenz. Typ 4: für Aufzüge mit Ecktüranordnung. Krankentrage: Fahrkorbfläche mindestens 1100×2100 mm. Bewegungsfläche vor Tür: 150×150 cm; bei Überlagerung mit Verkehrsfläche Mindestpassierbreite 90 cm. Abstand zu abwärtsführenden Treppen: ≥ 300 cm. Bedienelemente: Achsmaß 85 cm über OFF, Bereich 85–105 cm; bei mehreren Elementen übereinander: oberstes ≤ 105 cm, unterstes ≥ 85 cm; seitlicher Abstand Türkante ≥ 50 cm; nach DIN EN 81-70 Anhang G. Notruf: nach Zwei-Sinne-Prinzip (visuell/Video und akustisch); Rückmeldung für Gehörlose (visuelle Bestätigung) und Blinde (Sprachausgabe/akustisch).",
@@ -154,7 +231,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-025",
+    "id": "NRW-SCH-032",
     "category": "Accessibility",
     "requirement": "Wege, Plätze, Zugang (DIN 18040-1): Fußgängerwege müssen eben, stufenlos, griffig, fugenarm, rutschhemmend, taktil erkennbar und kontrastreich sein. Hauptwege mindestens 150 cm breit, Nebenwege mindestens 120 cm; Begegnungsflächen 180×180 cm alle 15 m. Längsgefälle max. 3 %, kurzzeitig bis 6 % mit Zwischenpodesten alle 10 m. Querneigung für Wasserableitung max. 2,5 %. Lichte Durchgangshöhe mindestens 230 cm.",
     "detail": "DIN 18040-1:2010-10, Abschnitt 5.1 (Wege, Plätze, Zugang): Oberflächenbeschaffenheit: 'Fußgängerwege müssen eben, stufenlos, griffig, fugenarm, rutschhemmend sein' sowie taktil erkennbar, farblich kontrastierend und blendfrei. Lichte Durchgangshöhe ≥ 230 cm. Breiten: Hauptwege ≥ 150 cm, Nebenwege ≥ 120 cm; Begegnungsflächen 180×180 cm alle 15 m für zwei Rollstuhlfahrer. Längsneigung: max. 3 %; bis 6 % mit Zwischenpodesten (max. 3 % Neigung) je 10 m zulässig; an Gebäudezugängen max. 3 % (bis 4 % auf Längen ≤ 10 m tolerierbar). Querneigung zur Wasserableitung: 2,5 %. Natürliches Steinpflaster: 3,0 % nach DIN 18318. Maßtoleranz Oberflächenebenheit: max. 0,4 %. PKW-Stellplatz: 350×500 cm, Kleinbus: 350×750 cm mit 250 cm Höhe. Übertragungsfläche zwischen Fahrzeug und Rollstuhl darf nicht durch hochgezogene Bürgersteigkanten überlappt werden.",
@@ -165,7 +242,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-026",
+    "id": "NRW-SCH-033",
     "category": "Accessibility",
     "requirement": "Bodenindikatoren in Gebäuden (DIN 32984): Taktile Leitsysteme (Rippenplatten) und Aufmerksamkeitsfelder (Noppenplatten) sind in Gebäudebereichen mit Orientierungsbedarf (Eingangsbereiche, Flure, Treppenanfänge) einzusetzen. Leuchtdichtekontrast K ≥ 0,4; Helligkeit der helleren Fläche ≥ 0,5. Rippenprofilhöhe 3–4 mm; Noppenprofilhöhe 3–4 mm. Bei Durchgängen unter 150 cm Breite: Leitsystem durch Aufmerksamkeitsfeld unterbrechen.",
     "detail": "DIN 32984:2011-05 (Bodenindikatoren im öffentlichen Raum) i.V.m. nullbarriere.de (Orientierung in Gebäuden): Rippenstruktur (Leitstreifen): Rippenhöhe 3–4 mm (±0,5 mm); Rippenbreite (Messebene) 5–10 mm; Rippenabstand (Messebene) 20–50 mm; Abstand Rippenkuppen 25–60 mm. Noppenstruktur (Aufmerksamkeitsfelder): Noppenhöhe 3–4 mm (±0,5 mm); Noppendurchmesser (Messebene) 15–30 mm; diagonaler Mittenabstand 32–60 mm; diagonaler Noppenabstand (Messebene) 17–36 mm; minimaler Abstand zweier sphärischer Noppen an der Basis: ≥ 12 mm. Kontrast: Leuchtdichtekontrast K ≥ 0,4 zwischen Bodenindikator und umliegendem Belag; Reflexionsgrad der helleren Fläche ≥ 0,5. Bei glattem/strukturarmem Bodenbelag: reduzierte Profilhöhe 2–3 mm möglich. Leitsysteme in ruhigen, klar strukturierten Foyers und Fluren: ggf. 3–4 Rippen ausreichend für Leitung. Unterbrechungsregel: 'Bei Durchgängen in einer Breite unter 150 cm ist das Leitsystem mit einem Aufmerksamkeitsfeld zu unterbrechen.'",
@@ -176,7 +253,7 @@
     "verified": true
   },
   {
-    "id": "NRW-SPO-027",
+    "id": "NRW-SCH-034",
     "category": "Accessibility",
     "requirement": "Handläufe (DIN EN 17210): Handlaufhöhe 85–90 cm, senkrecht über Stufenvorderkante bzw. Rampenfläche gemessen. Horizontale Verlängerung am Anfang und Ende von Treppen und Rampen mindestens 300 mm. Durchmesser 3–4,5 cm (rund oder oval); Wandabstand lichte Weite mindestens 5 cm. Beidseitig an Treppen und Rampen erforderlich; kontinuierlich ohne Unterbrechung. Oberfläche rutschhemmend, ohne scharfe Kanten; Endung einhakungsfrei (abgebogen). Bei Außenanlagen: Material mit geringer Wärmeleitfähigkeit.",
     "detail": "DIN EN 17210:2021 (Barrierefreiheit und Nutzbarkeit der gebauten Umgebung – Handläufe): Höhe: 85–90 cm, gemessen senkrecht von Oberkante Handlauf zu Stufenvorderkante (Treppen) bzw. Rampenfläche. Horizontale Verlängerung: mindestens 300 mm über erstes und letztes Treppenstufe bzw. Rampenanfang/-ende auf ebenem Boden. DIN 18040 spezifiziert diese Verlängerung gleichlautend mit '≥ 30 cm waagerecht'. Profilquerschnitt: ∅ 3–4,5 cm rund oder oval; auch abgerundet-rechteckige Profile als Option. Wandabstand: lichte Weite ≥ 5 cm zu Wand oder benachbarten Bauteilen. Aufstellung: beidseitig an Treppen und Rampen; auf breiten Treppen zusätzliche Mittelhandläufe empfohlen; kontinuierlich über Zwischenpodeste und Öffnungen (Fenster, Heizkörper). Materialanforderungen: rutschhemmende Oberfläche; keine scharfen Kanten; Endung des Handlaufs muss Einhaken von Kleidung verhindern (eingedreht oder nach unten gebogen); Außenmaterialien mit geringer Wärmeleitfähigkeit (kein nacktes Metall im Freien). Tragfähigkeit: vertikal und horizontal punktlastfähig; starre Befestigung erforderlich.",

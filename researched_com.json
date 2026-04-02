@@ -64,5 +64,115 @@
     "last_verified": "2026-03-27",
     "applies_to_funding": false,
     "verified": true
+  },
+  {
+    "id": "NRW-COM-017",
+    "category": "Accessibility",
+    "requirement": "DIN 18040-1 Gemeinschaftsbereiche: Das gesamte Gebäude unterliegt DIN 18040-1 (öffentlich zugängliche Gebäude). Die Kernanforderungen entsprechen DIN 18040-2: Verkehrsflächen ≥ 120 cm; Bewegungsflächen 150×150 cm (Rollstuhl) / 180×180 cm (Begegnung alle 15 m); lichte Türbreite ≥ 90 cm; Türgriffhöhe 85–105 cm; Türbedienkraft max. 25 N; Rampengefälle max. 6 %; Aufzug Typ 2 (1100×1400 mm, Tür 900 mm).",
+    "detail": "DIN 18040-1:2010-10 (Barrierefreies Bauen – Planungsgrundlagen – Teil 1: Öffentlich zugängliche Gebäude): Für das gesamte Gebäude gelten die Anforderungen der DIN 18040-1 ohne R-Differenzierung. Verkehrsflächen ohne Richtungswechsel: ≥ 120 cm. Rollstuhlwendefläche: 150×150 cm. Begegnung zweier Rollstuhlfahrer: 180×180 cm alle 15 m. Lichte Türbreite: ≥ 90 cm, Höhe ≥ 205 cm. Griffachsmaß: 85–105 cm. Türkraft: max. 25 N (DIN EN 12217 Klasse 3). Glastür-Kontraststreifen: 40–70 cm und 120–160 cm (8 cm breit). Schwellenhöhe max. 1 cm. Rampengefälle max. 6 % ohne Querneigung; Zwischenpodeste 150×150 cm alle 600 cm. Aufzug Typ 2 (630 kg): 1100×1400 mm, Tür 900 mm; Bewegungsfläche davor 150×150 cm, Abstand zu abwärtsführenden Treppen ≥ 300 cm. Einbauten (Mauervorsprünge, Rohrleitungen, Feuerlöscher, Handläufe) dürfen Bewegungsflächen nicht einschränken. Lichte Mindestdurchgangshöhe unter Hindernissen: ≥ 220 cm.",
+    "source_law": "DIN 18040-1:2010-10",
+    "source_url": "https://nullbarriere.de/din18040-1.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-018",
+    "category": "Accessibility",
+    "requirement": "Bewegungsflächen und Verkehrsflächen (DIN 18040-1): Flure und Verkehrsflächen ohne Richtungswechsel mindestens 120 cm breit. An Richtungswechseln, vor Aufzügen, an Rampenanfängen und -enden sowie in Schlafräumen, Küchen, Bädern und auf Terrassen: Bewegungsfläche 150×150 cm (R-Standard). Begegnungsflächen von mindestens 180×180 cm alle 15 m. Einbauten wie Mauervorsprünge, Rohrleitungen, Handläufe oder Briefkästen dürfen Bewegungsflächen nicht einschränken.",
+    "detail": "DIN 18040-1:2010-10, Abschnitt 4 (Flächen, Platzbedarf): Mindestbreite Verkehrsflächen ohne Richtungswechsel ≥ 120 cm. Rollstuhlwendefläche: 150×150 cm; für Begegnung zweier Rollstuhlfahrer: 180×180 cm (alle 15 m auf Fluren). Türdurchgangsbreiten für Rollstuhlfahrer mindestens 90 cm lichte Breite, innerhalb von Wohnungen ohne Rollstuhlnutzung mindestens 80 cm. Lichte Durchgangshöhe: ≥ 205 cm über OFF. Unterfahrbare Bereiche (z. B. unter Treppen): ≥ 220 cm Kopffreiheit. Schlafzimmer : Bewegungsfläche 150×150 cm an einer Längsseite des Bettes, 120×90 cm an der Gegenseite. 'Diese knapp bemessenen Bewegungsflächen dürfen nicht eingeschränkt werden, z. B. durch Mauervorsprünge, Rohrleitungen, Feuerlöscher, Handläufe, Briefkästen.' Behindertenparkplatz: mindestens 350×500 cm mit 220 cm Deckenhöhe; Rollstuhlstellplatz: 180×150 cm plus gleichwertige Zufahrtsfläche.",
+    "source_law": "DIN 18040-1:2010-10 Abschnitt 4",
+    "source_url": "https://nullbarriere.de/din18040-1-flaechen.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-019",
+    "category": "Accessibility",
+    "requirement": "Türen und Fenster (DIN 18040-1): Lichte Türbreite mindestens 90 cm; lichte Türhöhe mindestens 205 cm. Griffhöhe (Achsmaß) 85–105 cm über OFF; Eingangstüren möglichst automatisch oder mit Türöffner. Bedienelemente mit maximaler Schließkraft 25 N (Klasse 3 nach DIN EN 12217). Glastüren mit Kontrastmarkierungen in zwei Höhenbändern (40–70 cm und 120–160 cm). Fenster: mindestens ein Fenster je Raum muss leicht zu öffnen sein, Griffhöhe 85–105 cm. Keine absenkbaren Türanschläge.",
+    "detail": "DIN 18040-1:2010-10, Abschnitt 5.3 (Türen, Fenster): Lichte Durchgangsbreite ≥ 90 cm (R-Standard), lichte Durchgangshöhe ≥ 205 cm über OFF (Oberkante Fertigfußboden). Griffachsmaß: grundsätzlich 85 cm, zulässiger Bereich 85–105 cm über OFF. Seitlicher Abstand von Bedienelementen zur Hauptschließkante: ≥ 50 cm; frontaler Anfahrweg (Öffnungsrichtung) ≥ 250 cm, (Schließrichtung) ≥ 150 cm; bei Schiebetüren frontal je Seite ≥ 150 cm. Türkräfte: maximale Schließkraft 25 N, maximales Handmoment 2,5 Nm, maximale Fingerkraft 6 N (alle nach DIN EN 12217, Klasse 3). Rauch- und Brandschutztüren: maximal Größe 3 nach DIN EN 1154; bei Überschreitung automatische Feststellanlage erforderlich. Schwellenhöhe wenn unvermeidbar: maximal 2 cm abgeschrägt oder gerundet. Türspion (für Rollstuhlfahrer): 120 cm über OFF. Fenstergriffhöhe (R-Standard) 85–105 cm; alternativ Fensteröffner zulässig.",
+    "source_law": "DIN 18040-1:2010-10 Abschnitt 5.3",
+    "source_url": "https://nullbarriere.de/din18040-1-tueren.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-020",
+    "category": "Accessibility",
+    "requirement": "Brandschutz und Evakuierung (DIN 18040-1): Für jeden Rollstuhlfahrer ist ein gesicherter Wartebereich von mindestens 130×90 cm in Rettungswegnähe (notwendiger Treppenraum oder angrenzender Raum) vorzusehen. Alarmanlage nach Zwei-Sinne-Prinzip: optische Blitzleuchten in allen Räumen und Fluren; akustische Sprachdurchsagen auf Rettungswegen; taktile Orientierungssysteme für Blinde. Rettungsweg-Beschilderung bodennahe Markierung und Hochkontrast. Barrierefreie Notrufanlage im Wartebereich erforderlich.",
+    "detail": "DIN 18040-1:2010-10, Abschnitt Brandschutz: Gesicherte Wartebereiche ('sichere Orte') für Rollstuhlfahrer: je Rollstuhlfahrer mindestens 130×90 cm Stellfläche, nicht überlappend mit Verkehrsflächen; im notwendigen Treppenraum oder einem unmittelbar angrenzenden Raum; Größe nach Brandschutzkonzept/Evakuierungsplanung zu bemessen. Barrierefreier Notruf: in geschlossenen Wartebereichen zwingend erforderlich. Alarmierung nach Zwei-Sinne-Prinzip: (1) Optisch: Blitzleuchten in Räumen und Fluren für Gehörlose; (2) Akustisch: Sprachdurchsagen mit ausreichender Deutlichkeit; (3) Taktil: taktile Leitsysteme für Blinde und Sehbehinderte. Rettungswegkennzeichnung: Hochkontrast; bodennahe Markierungen; dynamische Evakuierungsanzeigen mit akustischen Komponenten. Sicherheitsbeleuchtung nach DIN EN 1838. Rauchmelder mit akustischem und optischem Signal. Evakuierungshilfen für Mobilitätseingeschränkte (z. B. Evakuierungsstuhl) einzuplanen.",
+    "source_law": "DIN 18040-1:2010-10 Abschnitt Brandschutz",
+    "source_url": "https://nullbarriere.de/din18040-1-brandschutz.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-021",
+    "category": "Accessibility",
+    "requirement": "Sanitärräume Gemeinschaftsbereich (DIN 18040-1): Je Sanitäranlage mindestens eine rollstuhlgerechte geschlechtsneutrale Toilette. Bewegungsflächen 150×150 cm vor allen Sanitärobjekten (Überlagerung zulässig). WC-Sitzhöhe 46–48 cm inkl. Brille; Stützklappgriffe beidseitig (Oberkante 28 cm über Sitz, Abstand 65–70 cm, Traglast 1 kN). Waschtisch unterfahrbar: max. 80 cm Höhe, ≥ 55 cm Kniefreiheit-Tiefe, ≥ 90 cm Breite, Armatur max. 40 cm von Vorderkante. Dusche niveaugleich, Rutschhemmklasse B (DGUV)/R10. Notrufanlage nach DIN VDE 0834-1 mit Zugknopf auf Bodenniveau. Keine in den Sanitärraum aufschlagende Drehflügeltüren.",
+    "detail": "DIN 18040-1:2010-10, Abschnitt Sanitärräume: Mindestens eine rollstuhlgerechte, geschlechtsneutrale WC-Einheit je Sanitäranlage. Bewegungsfläche (150×150 cm) vor WC, Waschtisch, Dusche und Badewanne; Überlagerung zulässig. WC-Seitliches Freisperrmaß: 90 cm Anfahrbreite (eine Seite), 30 cm Gegenbreite; alternativ zwei WC-Räume mit gegenläufiger Anfahrt. WC-Rückenstütze: 55 cm hinter Vorderkante WC (nicht Deckel). Waschtisch: Armatur ≤ 40 cm Abstand von Vorderkante; Einhebelarmatur oder berührungsloser Betrieb (Warmwasser max. 45 °C bei berührungslosem Betrieb); Spiegel ab 100 cm, direkt über Becken montiert. Dusche: niveaugleich (max. 2 cm Absenkung mit Schräge); Fußbodenbelag Rutschhemmgruppe B (DGUV 207-006) und R10 (DGUV 108-003); Klappsitz mit Rückenlehne und Armlehnen empfohlen. Notrufanlage: nach DIN VDE 0834-1; Rufknopf erreichbar vom WC sitzend; Zugschnur für liegende Person bis auf Bodenniveau; Reset-Taste; optische und akustische Signalisierung im Korridor. Türen: kein Einschlagen in Sanitärraum; von außen entriegelbar; visuelle Kontrastierung aller Ausstattungselemente.",
+    "source_law": "DIN 18040-1:2010-10 Abschnitt Sanitärräume; DIN VDE 0834-1",
+    "source_url": "https://nullbarriere.de/din-18040-1-sanitaerraeume.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-022",
+    "category": "Accessibility",
+    "requirement": "Treppen Gemeinschaftsbereich (DIN 18040-1): Gerade Läufe; beidseitige Handläufe ∅ 30–45 mm, Höhe 85–90 cm, Wandabstand 50 mm, Verlängerung ≥ 30 cm. Treppenkantenmarkierungen kontrastreich (LRV ≥ 50, Leuchtdichtekontrast ≥ 0,4) über volle Stufenbreite; Setzstufe min. 1 cm (empf. 2 cm), Trittstufe 4–5 cm. Taktile Aufmerksamkeitsfelder 60 cm tief am oberen und unteren Treppenende (60 cm vor der ersten Stufe). Keine offenen Setzstufen; Seitenkanten erhöht. Kurve zulässig bei Innendurchmesser ≥ 200 cm.",
+    "detail": "DIN 18040-1:2010-10, Abschnitt Treppen: Mindestens 3 Stufen pro Treppenlauf. Gerade Läufe bevorzugt; gebogene Treppen nur mit Innendurchmesser ≥ 200 cm. Keine offenen Setzstufen; schräge Setzstufen bis 2 cm Unterschneidung zulässig. Seitliche Erhöhungen zum Schutz von Gehhilfen. Handlauf: beidseitig in öffentlichen Gebäuden; ∅ 30–45 mm rund/oval; Wandabstand 50 mm lichte Weite; Höhe 85–90 cm senkrecht über Stufenvorderkante; horizontal ≥ 30 cm über Treppenende hinausführend; abgerundete oder wandseitig eingedrehte Endung; kontinuierlich über Podeste und Öffnungen. Treppenkantenmarkierungen: Leuchtdichtekontrast K ≥ 0,4; LRV (Lichtrückstrahlwert) ≥ 50 für die hellere Fläche; Setzstufe min. 1 cm (empf. 2 cm), Trittstufe 4–5 cm; über volle Stufenbreite; eingelassene Ausführung bevorzugt (Verträglichkeit Treppenlift). Taktile Aufmerksamkeitsfelder: min. 60 cm Tiefe an jedem Treppeneinstieg und -austritt; Breite entspricht Treppenbreite; positioniert 60 cm vor der obersten/untersten Stufe. Rutschhemmung: min. R9; Reibungskoeffizient ≥ 0,3 innen, ≥ 0,45 außen. Kinderhandlauf in Einrichtungen mit Kindern: 60–80 cm Höhe. Rolltreppen: max. 0,5 m/s; Neigung ≤ 30° (57,7 %).",
+    "source_law": "DIN 18040-1:2010-10 Abschnitt Treppen",
+    "source_url": "https://nullbarriere.de/din18040-1-treppen.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-023",
+    "category": "Accessibility",
+    "requirement": "Aufzüge Gemeinschaftsbereich (DIN 18040-1): Typ 2 (630 kg) als Mindestandforderung: Fahrkorbmaß 1100×1400 mm, Tür 900 mm. In Einrichtungen mit erhöhtem Platzbedarf (z. B. Pflegeheime mit mehreren Bewohnern gleichzeitig): Typ 3 (1275 kg): Fahrkorbmaß 2000×1400 mm, Tür 900 mm (Rollstuhlfahrer mit Wendefläche im Aufzug). Notrufsystem nach Zwei-Sinne-Prinzip (visuell + akustisch). Bedienelementachse 85–105 cm, seitlicher Abstand zur Türkante ≥ 50 cm.",
+    "detail": "DIN 18040-1:2010-10, Abschnitt Aufzugsanlagen i.V.m. DIN EN 81-70: Typ 2 (630 kg): Fahrkorbmaß 1100×1400 mm, lichte Türbreite 900 mm; für Rollstuhlfahrer mit Begleitung und Elektrorollstühle Klasse A/B. Typ 3 (1275 kg): Fahrkorbmaß 2000×1400 mm, lichte Türbreite 900 mm; ermöglicht Rollstuhlwendung im Fahrkorbinneren; empfohlen für Pflegeeinrichtungen und öffentliche Gebäude mit hoher Nutzungsfrequenz. Typ 4: für Aufzüge mit Ecktüranordnung. Krankentrage: Fahrkorbfläche mindestens 1100×2100 mm. Bewegungsfläche vor Tür: 150×150 cm; bei Überlagerung mit Verkehrsfläche Mindestpassierbreite 90 cm. Abstand zu abwärtsführenden Treppen: ≥ 300 cm. Bedienelemente: Achsmaß 85 cm über OFF, Bereich 85–105 cm; bei mehreren Elementen übereinander: oberstes ≤ 105 cm, unterstes ≥ 85 cm; seitlicher Abstand Türkante ≥ 50 cm; nach DIN EN 81-70 Anhang G. Notruf: nach Zwei-Sinne-Prinzip (visuell/Video und akustisch); Rückmeldung für Gehörlose (visuelle Bestätigung) und Blinde (Sprachausgabe/akustisch).",
+    "source_law": "DIN 18040-1:2010-10; DIN EN 81-70",
+    "source_url": "https://nullbarriere.de/din-18040-1-aufzug.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-024",
+    "category": "Accessibility",
+    "requirement": "Wege, Plätze, Zugang (DIN 18040-1): Fußgängerwege müssen eben, stufenlos, griffig, fugenarm, rutschhemmend, taktil erkennbar und kontrastreich sein. Hauptwege mindestens 150 cm breit, Nebenwege mindestens 120 cm; Begegnungsflächen 180×180 cm alle 15 m. Längsgefälle max. 3 %, kurzzeitig bis 6 % mit Zwischenpodesten alle 10 m. Querneigung für Wasserableitung max. 2,5 %. Lichte Durchgangshöhe mindestens 230 cm.",
+    "detail": "DIN 18040-1:2010-10, Abschnitt 5.1 (Wege, Plätze, Zugang): Oberflächenbeschaffenheit: 'Fußgängerwege müssen eben, stufenlos, griffig, fugenarm, rutschhemmend sein' sowie taktil erkennbar, farblich kontrastierend und blendfrei. Lichte Durchgangshöhe ≥ 230 cm. Breiten: Hauptwege ≥ 150 cm, Nebenwege ≥ 120 cm; Begegnungsflächen 180×180 cm alle 15 m für zwei Rollstuhlfahrer. Längsneigung: max. 3 %; bis 6 % mit Zwischenpodesten (max. 3 % Neigung) je 10 m zulässig; an Gebäudezugängen max. 3 % (bis 4 % auf Längen ≤ 10 m tolerierbar). Querneigung zur Wasserableitung: 2,5 %. Natürliches Steinpflaster: 3,0 % nach DIN 18318. Maßtoleranz Oberflächenebenheit: max. 0,4 %. PKW-Stellplatz: 350×500 cm, Kleinbus: 350×750 cm mit 250 cm Höhe. Übertragungsfläche zwischen Fahrzeug und Rollstuhl darf nicht durch hochgezogene Bürgersteigkanten überlappt werden.",
+    "source_law": "DIN 18040-1:2010-10 Abschnitt 5.1",
+    "source_url": "https://nullbarriere.de/din18040-1-wege-plaetze-zugang.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": true,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-025",
+    "category": "Accessibility",
+    "requirement": "Bodenindikatoren in Gebäuden (DIN 32984): Taktile Leitsysteme (Rippenplatten) und Aufmerksamkeitsfelder (Noppenplatten) sind in Gebäudebereichen mit Orientierungsbedarf (Eingangsbereiche, Flure, Treppenanfänge) einzusetzen. Leuchtdichtekontrast K ≥ 0,4; Helligkeit der helleren Fläche ≥ 0,5. Rippenprofilhöhe 3–4 mm; Noppenprofilhöhe 3–4 mm. Bei Durchgängen unter 150 cm Breite: Leitsystem durch Aufmerksamkeitsfeld unterbrechen.",
+    "detail": "DIN 32984:2011-05 (Bodenindikatoren im öffentlichen Raum) i.V.m. nullbarriere.de (Orientierung in Gebäuden): Rippenstruktur (Leitstreifen): Rippenhöhe 3–4 mm (±0,5 mm); Rippenbreite (Messebene) 5–10 mm; Rippenabstand (Messebene) 20–50 mm; Abstand Rippenkuppen 25–60 mm. Noppenstruktur (Aufmerksamkeitsfelder): Noppenhöhe 3–4 mm (±0,5 mm); Noppendurchmesser (Messebene) 15–30 mm; diagonaler Mittenabstand 32–60 mm; diagonaler Noppenabstand (Messebene) 17–36 mm; minimaler Abstand zweier sphärischer Noppen an der Basis: ≥ 12 mm. Kontrast: Leuchtdichtekontrast K ≥ 0,4 zwischen Bodenindikator und umliegendem Belag; Reflexionsgrad der helleren Fläche ≥ 0,5. Bei glattem/strukturarmem Bodenbelag: reduzierte Profilhöhe 2–3 mm möglich. Leitsysteme in ruhigen, klar strukturierten Foyers und Fluren: ggf. 3–4 Rippen ausreichend für Leitung. Unterbrechungsregel: 'Bei Durchgängen in einer Breite unter 150 cm ist das Leitsystem mit einem Aufmerksamkeitsfeld zu unterbrechen.'",
+    "source_law": "DIN 32984:2011-05",
+    "source_url": "https://nullbarriere.de/din32984-bodenindikatoren-in-gebaeuden.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": false,
+    "verified": true
+  },
+  {
+    "id": "NRW-COM-026",
+    "category": "Accessibility",
+    "requirement": "Handläufe (DIN EN 17210): Handlaufhöhe 85–90 cm, senkrecht über Stufenvorderkante bzw. Rampenfläche gemessen. Horizontale Verlängerung am Anfang und Ende von Treppen und Rampen mindestens 300 mm. Durchmesser 3–4,5 cm (rund oder oval); Wandabstand lichte Weite mindestens 5 cm. Beidseitig an Treppen und Rampen erforderlich; kontinuierlich ohne Unterbrechung. Oberfläche rutschhemmend, ohne scharfe Kanten; Endung einhakungsfrei (abgebogen). Bei Außenanlagen: Material mit geringer Wärmeleitfähigkeit.",
+    "detail": "DIN EN 17210:2021 (Barrierefreiheit und Nutzbarkeit der gebauten Umgebung – Handläufe): Höhe: 85–90 cm, gemessen senkrecht von Oberkante Handlauf zu Stufenvorderkante (Treppen) bzw. Rampenfläche. Horizontale Verlängerung: mindestens 300 mm über erstes und letztes Treppenstufe bzw. Rampenanfang/-ende auf ebenem Boden. DIN 18040 spezifiziert diese Verlängerung gleichlautend mit '≥ 30 cm waagerecht'. Profilquerschnitt: ∅ 3–4,5 cm rund oder oval; auch abgerundet-rechteckige Profile als Option. Wandabstand: lichte Weite ≥ 5 cm zu Wand oder benachbarten Bauteilen. Aufstellung: beidseitig an Treppen und Rampen; auf breiten Treppen zusätzliche Mittelhandläufe empfohlen; kontinuierlich über Zwischenpodeste und Öffnungen (Fenster, Heizkörper). Materialanforderungen: rutschhemmende Oberfläche; keine scharfen Kanten; Endung des Handlaufs muss Einhaken von Kleidung verhindern (eingedreht oder nach unten gebogen); Außenmaterialien mit geringer Wärmeleitfähigkeit (kein nacktes Metall im Freien). Tragfähigkeit: vertikal und horizontal punktlastfähig; starre Befestigung erforderlich.",
+    "source_law": "DIN EN 17210:2021; DIN 18040-1:2010-10",
+    "source_url": "https://nullbarriere.de/din-en-17210-handlauf.htm",
+    "last_verified": "2026-04-01",
+    "applies_to_funding": true,
+    "verified": true
   }
 ]
